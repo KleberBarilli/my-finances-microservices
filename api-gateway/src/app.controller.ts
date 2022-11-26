@@ -1,6 +1,7 @@
 import {
   Body,
   Controller,
+  Get,
   Logger,
   Post,
   Query,
@@ -12,7 +13,7 @@ import {
   ClientProxyFactory,
   Transport,
 } from '@nestjs/microservices';
-import { CreateInvestimentDto } from './investiments/dto/create-investiment.dto';
+import { Observable } from 'rxjs';
 import { CreateUserDto } from './users/create-user.dto';
 
 @Controller('api')
@@ -43,10 +44,11 @@ export class AppController {
   @Post('users')
   @UsePipes(ValidationPipe)
   createUser(@Body() createUserDto: CreateUserDto) {
-    return this.clientUserBackend.emit('create-user', createUserDto);
+    this.clientUserBackend.emit('create-user', createUserDto);
   }
 
-  listInvestiments(@Query('investimentId') id: string) {
+  @Get('investiments')
+  listInvestiments(@Query('investimentId') id: string): Observable<any> {
     return this.clientUserBackend.send('list-investiments', id ? id : '');
   }
 }

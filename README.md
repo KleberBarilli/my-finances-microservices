@@ -1,4 +1,5 @@
 # my-finances-microservices
+
 Microserviços para gerenciar usuários e suas finanças
 
 <img  src="https://miro.medium.com/max/755/1*Q3WCpGRrsyy7X7tz0kaHew.png">
@@ -9,7 +10,7 @@ Microserviços para gerenciar usuários e suas finanças
 <ul>
   <li><strong>API GATEWAY</strong> - Cordena todas as chamadas e envia para o respectivo micro serviço.</li>
   <li><strong>MS-USERS</strong> - Micro serviço responsável por gerenciar usuários do sistema.</li>
-  <li><strong>MS-INVESTIMENTS</strong> - Micro serviço responsável por gerenciar os investimentos/finanças.</li>
+  <li><strong>MS-INVESTMENTS</strong> - Micro serviço responsável por gerenciar os investimentos/finanças.</li>
   <li><strong>MS-REPORTS</strong> - Micro serviço que gera relatórios sobre as finanças dos usuários.</li>
   <li><strong>MS-NOTIFICATIONS</strong> - Micro serviço que envia notificações para usuários.</li>
 </ul>
