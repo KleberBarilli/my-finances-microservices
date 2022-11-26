@@ -10,6 +10,6 @@ Microserviços para gerenciar usuários e suas finanças
   <li><strong>API GATEWAY</strong> - Cordena todas as chamadas e envia para o respectivo micro serviço.</li>
   <li><strong>MS-USERS</strong> - Micro serviço responsável por gerenciar usuários do sistema.</li>
   <li><strong>MS-INVESTIMENTS</strong> - Micro serviço responsável por gerenciar os investimentos/finanças.</li>
-  <li><strong>MS-REPORT</strong> - Micro serviço que gera relatórios sobre as finanças dos usuários.</li>
-  <li><strong>MS-NOTIFICATION</strong> - Micro serviço que envia notificações para usuários.</li>
+  <li><strong>MS-REPORTS</strong> - Micro serviço que gera relatórios sobre as finanças dos usuários.</li>
+  <li><strong>MS-NOTIFICATIONS</strong> - Micro serviço que envia notificações para usuários.</li>
 </ul>
