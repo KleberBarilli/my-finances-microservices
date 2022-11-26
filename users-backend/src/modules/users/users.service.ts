@@ -1,0 +1,20 @@
+import { Injectable, Logger } from '@nestjs/common';
+import { UsersRepository } from './repositories/users.repository';
+import { CreateUserDto } from './dto/create-user.dto';
+import { RpcException } from '@nestjs/microservices';
+
+@Injectable()
+export class UsersService {
+  constructor(private readonly repository: UsersRepository) {}
+
+  private readonly logger = new Logger(UsersService.name);
+
+  create(user: CreateUserDto) {
+    try {
+      return this.repository.create(user);
+    } catch (error) {
+      this.logger.error(`error: ${JSON.stringify(error.message)}`);
+      throw new RpcException(error.message);
+    }
+  }
+}
