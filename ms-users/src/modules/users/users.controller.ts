@@ -12,6 +12,6 @@ export class UsersController {
   @EventPattern('create-user')
   async create(@Payload() user: UserEntity) {
     this.logger.log(`user: ${JSON.stringify(user)}`);
-    return this.usersService.create(user);
+    return await this.usersService.create(user);
   }
 }

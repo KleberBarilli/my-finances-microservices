@@ -3,6 +3,7 @@ import {
   Controller,
   Logger,
   Post,
+  Query,
   UsePipes,
   ValidationPipe,
 } from '@nestjs/common';
@@ -41,7 +42,11 @@ export class AppController {
   // }
   @Post('users')
   @UsePipes(ValidationPipe)
-  async createUser(@Body() createUserDto: CreateUserDto) {
-    return await this.clientUserBackend.emit('create-user', createUserDto);
+  createUser(@Body() createUserDto: CreateUserDto) {
+    return this.clientUserBackend.emit('create-user', createUserDto);
+  }
+
+  listInvestiments(@Query('investimentId') id: string) {
+    return this.clientUserBackend.send('list-investiments', id ? id : '');
   }
 }
