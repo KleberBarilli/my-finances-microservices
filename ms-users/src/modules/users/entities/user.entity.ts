@@ -1,4 +1,4 @@
-import { User, Role } from '@prisma/client';
+import { User, Role } from "@prisma/client";
 
 export class UserEntity implements User {
   id: string;

@@ -1,7 +1,7 @@
-import { Injectable, Logger } from '@nestjs/common';
-import { UsersRepository } from './repositories/users.repository';
-import { CreateUserDto } from './dto/create-user.dto';
-import { RpcException } from '@nestjs/microservices';
+import { Injectable, Logger } from "@nestjs/common";
+import { UsersRepository } from "./repositories/users.repository";
+import { CreateUserDto } from "./dto/create-user.dto";
+import { RpcException } from "@nestjs/microservices";
 
 @Injectable()
 export class UsersService {

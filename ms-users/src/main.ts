@@ -1,6 +1,6 @@
-import { NestFactory } from '@nestjs/core';
-import { Transport } from '@nestjs/microservices';
-import { AppModule } from './app.module';
+import { NestFactory } from "@nestjs/core";
+import { Transport } from "@nestjs/microservices";
+import { AppModule } from "./app.module";
 
 async function bootstrap() {
   const app = await NestFactory.createMicroservice(AppModule, {
@@ -9,7 +9,7 @@ async function bootstrap() {
       urls: [
         `amqp://${process.env.RABBITMQ_USER}:${process.env.RABBITMQ_PASSWORD}@${process.env.RABBITMQ_URL}/users`,
       ],
-      queue: 'user-backend',
+      queue: "user-backend",
     },
   });
 
