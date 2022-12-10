@@ -9,6 +9,7 @@ async function bootstrap() {
       urls: [
         `amqp://${process.env.RABBITMQ_USER}:${process.env.RABBITMQ_PASSWORD}@${process.env.RABBITMQ_URL}/users`,
       ],
+      noAck: false,
       queue: "user-backend",
     },
   });

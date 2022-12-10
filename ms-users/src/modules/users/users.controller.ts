@@ -1,7 +1,15 @@
 import { Controller, Logger } from "@nestjs/common";
 import { UsersService } from "./users.service";
-import { EventPattern, MessagePattern, Payload } from "@nestjs/microservices";
+import {
+  Ctx,
+  EventPattern,
+  MessagePattern,
+  Payload,
+  RmqContext,
+} from "@nestjs/microservices";
 import { UserEntity } from "./entities/user.entity";
+
+const ackErrors: string[] = ["Unique constraint failed on the field"];
 
 @Controller("users")
 export class UsersController {
@@ -10,10 +18,23 @@ export class UsersController {
   logger = new Logger(UsersController.name);
 
   @EventPattern("create-user")
-  async create(@Payload() user: UserEntity) {
+  async create(@Payload() user: UserEntity, @Ctx() context: RmqContext) {
+    const channel = context.getChannelRef();
+    const originalMessage = context.getMessage();
+
     this.logger.log(`user: ${JSON.stringify(user)}`);
 
-    return await this.usersService.create(user);
+    try {
+      await this.usersService.create(user);
+      await channel.ack(originalMessage); //Removendo mensagem do rabbit após sucesso de escrita no banco
+    } catch (error) {
+      this.logger.error(`error: ${JSON.stringify(error)}`);
+      ackErrors.map(async (ackError) => {
+        if (error.message.includes(ackError)) {
+          await channel.ack(originalMessage);
+        }
+      });
+    }
   }
 
   @MessagePattern("find-users")
