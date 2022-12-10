@@ -40,10 +40,17 @@ export class UsersController {
   }
 
   @MessagePattern("find-users")
-  async listUsers(@Payload() id: string) {
-    if (id) {
-      return await this.usersService.findById(id);
+  async listUsers(@Payload() id: string, @Ctx() context: RmqContext) {
+    const channel = context.getChannelRef();
+    const originalMessage = context.getMessage();
+
+    try {
+      if (id) {
+        return await this.usersService.findById(id);
+      }
+      return await this.usersService.listAll();
+    } finally {
+      await channel.ack(originalMessage);
     }
-    return await this.usersService.listAll();
   }
 }
