@@ -1,0 +1,2534 @@
+[
+    {
+      "company": "CANUMA CAPITAL MULTIESTRATÉGIA FDO DE INV IMOB",
+      "asset": "FII CANUMA",
+      "segment": "",
+      "code": "CCME"
+    },
+    {
+      "company": "INTER TEVA INDICE DE TIJOLO asset DE INVESTIMENTO",
+      "asset": "FII INTER IT",
+      "segment": "",
+      "code": "ITIT"
+    },
+    {
+      "company": "JASC RENDA VAREJO ESSENCIAL FDO DE INV IMOB - FII",
+      "asset": "FII JASC REN",
+      "segment": "",
+      "code": "JASC"
+    },
+    {
+      "company": "LAVOURA asset DE INVESTIMENTO IMOBILIÁRIO",
+      "asset": "FII LAVOURA",
+      "segment": "",
+      "code": "LAVF"
+    },
+    {
+      "company": "AF INVEST CRI FDO. INV. IMOB - RECEBÍVEIS IMOB.",
+      "asset": "FII AFHI CRI",
+      "segment": "",
+      "code": "AFHI"
+    },
+    {
+      "company": "ALIANZA CRÉDITO IMOBILIÁRIO FII asset DE INV IMOB",
+      "asset": "FII ALI CRED",
+      "segment": "",
+      "code": "ALZC"
+    },
+    {
+      "company": "ALIANZA MULTIESTRATÉGIA asset DE INVESTIMENTO IMOB",
+      "asset": "FII ALIANZME",
+      "segment": "",
+      "code": "ALZM"
+    },
+    {
+      "company": "ALIANZA MULTIOFFICES  - FDO. INV. IMOB",
+      "asset": "FII MULT OF1",
+      "segment": "",
+      "code": "MTOF"
+    },
+    {
+      "company": "ALIANZA TRUST RENDA IMOBILIARIA FDO INV IMOB",
+      "asset": "FII ALIANZA",
+      "segment": "",
+      "code": "ALZR"
+    },
+    {
+      "company": "ALIANZA URBAN HUB RENDA asset DE INVESTIMENTO IMOB",
+      "asset": "FII ALI URB",
+      "segment": "",
+      "code": "AURB"
+    },
+    {
+      "company": "AROEIRA 333 RENDA LOGÍSTICA FDO DE INV IMOB",
+      "asset": "FII AROA",
+      "segment": "",
+      "code": "AROA"
+    },
+    {
+      "company": "ASA METROPOLIS asset DE INVESTIMENTO IMOBILIÁRIO",
+      "asset": "FII ASA MET",
+      "segment": "",
+      "code": "ASMT"
+    },
+    {
+      "company": "ASA RETROFITS I FDO DE INV IMOB - FII",
+      "asset": "FII ASA RET",
+      "segment": "",
+      "code": "ASRF"
+    },
+    {
+      "company": "AUTONOMY EDIFÍCIOS CORPORATIVOS FUND. INV. IMOB.",
+      "asset": "FII AUTONOMY",
+      "segment": "",
+      "code": "AIEC"
+    },
+    {
+      "company": "BANESTES RECEBÍVEIS IMOBILIÁRIOS FDO INV IMOB  FII",
+      "asset": "FII BEES CRI",
+      "segment": "",
+      "code": "BCRI"
+    },
+    {
+      "company": "BANRISUL NOVAS FRONTEIRAS FDO INV IMOB - FII",
+      "asset": "FII BANRISUL",
+      "segment": "",
+      "code": "BNFS"
+    },
+    {
+      "company": "BARZEL CD1 asset DE INVESTIMENTO IMOBILIÁRIO",
+      "asset": "FII BARZEL",
+      "segment": "",
+      "code": "BZEL"
+    },
+    {
+      "company": "BASÍLICA PARTNERS LED CORPORATE FDO INV IMOB FII",
+      "asset": "FII BASILICA",
+      "segment": "",
+      "code": "BPLC"
+    },
+    {
+      "company": "BB FDO INV IMOB PROGRESSIVO",
+      "asset": "FII BB PROGR",
+      "segment": "MB",
+      "code": "BBFI"
+    },
+    {
+      "company": "BB asset DE assetS - FDO. INV. IMOB.",
+      "asset": "FII BB FOF",
+      "segment": "",
+      "code": "BBFO"
+    },
+    {
+      "company": "BB PROGRESSIVO II FDO INV IMOB - FII",
+      "asset": "FII BB PRGII",
+      "segment": "",
+      "code": "BBPO"
+    },
+    {
+      "company": "BB RECEBIVEIS IMOBILIARIOS FDO INV IMOB - FII",
+      "asset": "FII BB RECIM",
+      "segment": "",
+      "code": "BBIM"
+    },
+    {
+      "company": "BB RENDA CORPORATIVA FDO INV IMOB - FII",
+      "asset": "FII BB CORP",
+      "segment": "",
+      "code": "BBRC"
+    },
+    {
+      "company": "BB RENDA DE PAPEIS IMOB II FDO INV IMOB - FII",
+      "asset": "FII BB PAPII",
+      "segment": "",
+      "code": "RDPD"
+    },
+    {
+      "company": "BB RENDA DE PAPÉIS IMOBILIÁRIOS FDO INV IMOB - FII",
+      "asset": "FII BB R PAP",
+      "segment": "",
+      "code": "RNDP"
+    },
+    {
+      "company": "BLUEMACAW CATUAÍ TRIPLE A FDO DE INV IMOB",
+      "asset": "FII BLUE AAA",
+      "segment": "",
+      "code": "BLCA"
+    },
+    {
+      "company": "BLUEMACAW CRÉDITO IMOBILIÁRIO - FDO. INV. IMOB.",
+      "asset": "FII BLUE CRI",
+      "segment": "",
+      "code": "BLMC"
+    },
+    {
+      "company": "BLUEMACAW LOGÍSTICA FDO. INVEST. IMOB.",
+      "asset": "FII BLUE LOG",
+      "segment": "",
+      "code": "BLMG"
+    },
+    {
+      "company": "BLUEMACAW OFFICE FUND II - FDO. INVEST. IMOB.",
+      "asset": "FII BLUEMAC",
+      "segment": "",
+      "code": "BLMO"
+    },
+    {
+      "company": "BLUEMACAW RENDA + FOF FDO. INVEST. IMOB.",
+      "asset": "FII BLUE FOF",
+      "segment": "",
+      "code": "BLMR"
+    },
+    {
+      "company": "BR7 SENADO asset DE INVESTIMENTO IMOBILIÁRIO",
+      "asset": "FII BR7 SENA",
+      "segment": "",
+      "code": "BRSE"
+    },
+    {
+      "company": "BRADESCO CARTEIRA IMOBILIÁRIA ATIVA - FII",
+      "asset": "FII BCIA",
+      "segment": "",
+      "code": "BCIA"
+    },
+    {
+      "company": "BRAZIL REAL ESTATE VICTORY FUND I - FDO. INV. IMOB",
+      "asset": "FII BRE VIC",
+      "segment": "",
+      "code": "BREV"
+    },
+    {
+      "company": "BRAZIL REALTY FDO INV IMOB",
+      "asset": "FII BRREALTY",
+      "segment": "",
+      "code": "BZLI"
+    },
+    {
+      "company": "BRAZILIAN GRAVEYARD DEATH CARE FDO INV IMOB - FII",
+      "asset": "FII DEA CARE",
+      "segment": "",
+      "code": "CARE"
+    },
+    {
+      "company": "BRESCO LOGÍSTICA - FDO INV IMOB",
+      "asset": "FII BRESCO",
+      "segment": "",
+      "code": "BRCO"
+    },
+    {
+      "company": "BRIO CRÉDITO ESTRUTURADO - FDO. INVEST. IMOB.",
+      "asset": "FII BRIO CRE",
+      "segment": "",
+      "code": "BICE"
+    },
+    {
+      "company": "BRIO MULTIESTRATÉGIA FDO INV IMOB",
+      "asset": "FII BRIO ME",
+      "segment": "",
+      "code": "BIME"
+    },
+    {
+      "company": "BRIO REAL ESTATE II - FDO INV IMOB",
+      "asset": "FII BRIO II",
+      "segment": "",
+      "code": "BRIM"
+    },
+    {
+      "company": "BRIO REAL ESTATE III FDO DE INVEST. IMOB.",
+      "asset": "FII BRIO III",
+      "segment": "",
+      "code": "BRIP"
+    },
+    {
+      "company": "BRIO REAL ESTATE IV - asset DE INVESTIMENTO IMOB",
+      "asset": "FII BRIO IV",
+      "segment": "",
+      "code": "BIPD"
+    },
+    {
+      "company": "BRIX asset DE INVESTIMENTO IMOBILIÁRIO",
+      "asset": "FII BRIX",
+      "segment": "",
+      "code": "BRIX"
+    },
+    {
+      "company": "BS2 ALLINVESTMENTS FDO DE INV IMOB",
+      "asset": "FII BS2",
+      "segment": "",
+      "code": "LLAO"
+    },
+    {
+      "company": "BTG PACTUAL LOGISTICA FDO INV IMOB - FII",
+      "asset": "FII BTLG",
+      "segment": "",
+      "code": "BTLG"
+    },
+    {
+      "company": "BTOWERS FII - asset DE INVESTIMENTO IMOBILIÁRIO",
+      "asset": "FII BTOWERS",
+      "segment": "",
+      "code": "BTWR"
+    },
+    {
+      "company": "BTSP I FDO. INVEST. IMOB - FII",
+      "asset": "FII BTSP I",
+      "segment": "",
+      "code": "BTSG"
+    },
+    {
+      "company": "BTSP II asset DE INVESTIMENTO IMOBILIÁRIO",
+      "asset": "FII BTSP II",
+      "segment": "",
+      "code": "BTSI"
+    },
+    {
+      "company": "CAIXA RIO BRAVO FDO DE FDOS INV IMOB II",
+      "asset": "FII CX RBRA2",
+      "segment": "",
+      "code": "CRFF"
+    },
+    {
+      "company": "CAIXA RIO BRAVO asset DE FDO INV IMOB - FII",
+      "asset": "FII CX RBRAV",
+      "segment": "",
+      "code": "CXRI"
+    },
+    {
+      "company": "CAPITÂNIA REIT FOF - FDO. INVEST. IMOB",
+      "asset": "FII CAP REIT",
+      "segment": "",
+      "code": "CPFF"
+    },
+    {
+      "company": "CAPITANIA SECURITIES II FDO INV IMOB - FII",
+      "asset": "FII CAPI SEC",
+      "segment": "",
+      "code": "CPTS"
+    },
+    {
+      "company": "CARTESIA RECEBÍVEIS IMOBILIÁRIOS - asset DE INVEST",
+      "asset": "CARTESIA FII",
+      "segment": "",
+      "code": "CACR"
+    },
+    {
+      "company": "CASTELLO BRANCO OFFICE PARK FDO INV IMOB - FII",
+      "asset": "FII C BRANCO",
+      "segment": "",
+      "code": "CBOP"
+    },
+    {
+      "company": "CF2 asset DE INVESTIMENTO IMOBILIÁRIO",
+      "asset": "FII CF2",
+      "segment": "",
+      "code": "CFHI"
+    },
+    {
+      "company": "CF3 asset DE INVESTIMENTO IMOBILIÁRIO - FII",
+      "asset": "FII CF3 IMOB",
+      "segment": "",
+      "code": "CFII"
+    },
+    {
+      "company": "CIDADE JARDIM CONTINENAL TOWER FDO INV IMOB",
+      "asset": "FII CJCTOWER",
+      "segment": "",
+      "code": "CJCT"
+    },
+    {
+      "company": "CONSTANTINOPLA RECEBÍVEIS IMOBILIÁRIOS FII",
+      "asset": "FII FED HY",
+      "segment": "",
+      "code": "CTNP"
+    },
+    {
+      "company": "CSHG IMOB. FOF - FDO INV. IMOB. - FII",
+      "asset": "FII CSHG FOF",
+      "segment": "",
+      "code": "HGFF"
+    },
+    {
+      "company": "CSHG LOGÍSTICA FDO INV IMOB - FII",
+      "asset": "FII CSHG LOG",
+      "segment": "",
+      "code": "HGLG"
+    },
+    {
+      "company": "CSHG PRIME OFFICES FDO INV IMOB - FII",
+      "asset": "FII CSHGPRIM",
+      "segment": "",
+      "code": "HGPO"
+    },
+    {
+      "company": "CSHG REAL ESTATE FDO INV IMOB - FII",
+      "asset": "FII HG REAL",
+      "segment": "",
+      "code": "HGRE"
+    },
+    {
+      "company": "CSHG RECEBÍVEIS IMOBILIÁRIOS FDO INV IMOB - FII",
+      "asset": "FII CSHG CRI",
+      "segment": "",
+      "code": "HGCR"
+    },
+    {
+      "company": "CSHG RENDA URBANA - FDO INV IMOB - FII",
+      "asset": "FII CSHG URB",
+      "segment": "",
+      "code": "HGRU"
+    },
+    {
+      "company": "CSHG RESIDENCIAL FDO DE INV IMOB - FII",
+      "asset": "FII CSHG RSD",
+      "segment": "",
+      "code": "HGRS"
+    },
+    {
+      "company": "CVPAR asset DE INVESTIMENTO IMOBILIÁRIO DE CRI",
+      "asset": "FII CVPAR",
+      "segment": "",
+      "code": "CVPR"
+    },
+    {
+      "company": "CYRELA CRÉDITO - asset DE INVESTIMENTO IMOBILIÁRIO",
+      "asset": "FII CYRELA",
+      "segment": "",
+      "code": "CYCR"
+    },
+    {
+      "company": "CYRELA DESENVOLVIMENTO LOGÍSTICO FDO INV IMOB",
+      "asset": "FII CYLD",
+      "segment": "",
+      "code": "CYLD"
+    },
+    {
+      "company": "DEL MONTE AJAX FDO INV IMOB - FII",
+      "asset": "FII DEL MONT",
+      "segment": "",
+      "code": "DLMT"
+    },
+    {
+      "company": "DEVANT PROPERTIES asset DE INVESTIMENTO IMOB",
+      "asset": "FII DEVA PRO",
+      "segment": "",
+      "code": "DPRO"
+    },
+    {
+      "company": "DEVANT RECEBÍVEIS IMOBILIÁRIOS FDO. INVEST. IMOB.",
+      "asset": "FII DEVANT",
+      "segment": "",
+      "code": "DEVA"
+    },
+    {
+      "company": "DIAMANTE FDO INV IMOB",
+      "asset": "FII DIAMANTE",
+      "segment": "MB",
+      "code": "DAMT"
+    },
+    {
+      "company": "DOVEL FDO INV IMOB",
+      "asset": "FII DOVEL",
+      "segment": "MB",
+      "code": "DOVL"
+    },
+    {
+      "company": "ENERGY RESORT FDO. INVEST. IMOB.",
+      "asset": "FII ENERGY",
+      "segment": "",
+      "code": "EGYR"
+    },
+    {
+      "company": "EQI RECEBÍVEIS IMOBILIÁRIOS FDO DE INV IMOBILIÁRIO",
+      "asset": "FII EQI RECE",
+      "segment": "",
+      "code": "EQIR"
+    },
+    {
+      "company": "ESTOQUE RESIDENCIAL E COMERCIAL RJ FDO INV IMOB",
+      "asset": "FII ESTOQ RJ",
+      "segment": "",
+      "code": "ERCR"
+    },
+    {
+      "company": "EUROPA 105 - FDO INV IMOB",
+      "asset": "FII EUROPA",
+      "segment": "",
+      "code": "ERPA"
+    },
+    {
+      "company": "EVEN II KINEA asset DE INVESTIMENTO IMOBILIÁRIO",
+      "asset": "FII EVEN II",
+      "segment": "",
+      "code": "KEVE"
+    },
+    {
+      "company": "EVEN PERMUTA KINEA FII - FDO INV IMOB",
+      "asset": "FII EV KINEA",
+      "segment": "",
+      "code": "KINP"
+    },
+    {
+      "company": "EXES asset DE INVESTIMENTO IMOBILIÁRIO",
+      "asset": "FII EXES",
+      "segment": "",
+      "code": "EXES"
+    },
+    {
+      "company": "FARIA LIMA CAPITAL RECEB. IMOB. I - FDO INV. IMOB.",
+      "asset": "FII FL RECEB",
+      "segment": "",
+      "code": "FLCR"
+    },
+    {
+      "company": "FATOR RENDA GALPÃO FDO INV IMOB",
+      "asset": "FII FATOR GP",
+      "segment": "",
+      "code": "FAGL"
+    },
+    {
+      "company": "FATOR VERITA FDO INV IMOB - FII",
+      "asset": "FII FATOR VE",
+      "segment": "",
+      "code": "VRTA"
+    },
+    {
+      "company": "FDO BRASÍLIO MACHADO DE INVESTIMENTO IMOBILIÁRIO",
+      "asset": "FII BRASILIO",
+      "segment": "",
+      "code": "BMII"
+    },
+    {
+      "company": "FDO DE INV IMOB LEBLON REALTY DESENVOLVIMENTO I",
+      "asset": "FII LEBLON",
+      "segment": "",
+      "code": "LRDI"
+    },
+    {
+      "company": "FDO DE INV IMOB MAUÁ CAPITAL HIGH YIELD - FII",
+      "asset": "FII MAUA HY",
+      "segment": "",
+      "code": "MCHY"
+    },
+    {
+      "company": "FDO DE INV IMOB MAUA CAPITAL MPD DESENV RESID",
+      "asset": "FII MAUA MPD",
+      "segment": "",
+      "code": "MMPD"
+    },
+    {
+      "company": "FDO DE INV IMOBILIÁRIO DE CRI INTEGRAL BREI",
+      "asset": "FII BREI",
+      "segment": "",
+      "code": "IBCR"
+    },
+    {
+      "company": "FDO DE INV. MOGNO CERTIFICADOS DE RECEBÍVEIS IMOB.",
+      "asset": "FII MOGNO HG",
+      "segment": "",
+      "code": "MGCR"
+    },
+    {
+      "company": "FDO DE INVEST IMOB GUARDIAN MULTIESTRATÉGIA I",
+      "asset": "FII GUARD MU",
+      "segment": "",
+      "code": "GAME"
+    },
+    {
+      "company": "FDO INV IMOB - BTG PACTUAL CREDITO IMOBILIARIO",
+      "asset": "FII asset",
+      "segment": "",
+      "code": "BTCR"
+    },
+    {
+      "company": "FDO INV IMOB - FII ANCAR IC",
+      "asset": "FII ANCAR IC",
+      "segment": "MB",
+      "code": "ANCR"
+    },
+    {
+      "company": "FDO INV IMOB - FII ANHANGUERA EDUCACIONAL",
+      "asset": "FII ANH EDUC",
+      "segment": "",
+      "code": "FAED"
+    },
+    {
+      "company": "FDO INV IMOB - FII BM BRASCAN LAJES CORPORATIVAS",
+      "asset": "FII BMBRC LC",
+      "segment": "",
+      "code": "BMLC"
+    },
+    {
+      "company": "FDO INV IMOB - FII BRLPROP",
+      "asset": "FII BRLPROP",
+      "segment": "",
+      "code": "BPRP"
+    },
+    {
+      "company": "FDO INV IMOB - FII BTG PACTUAL CORP. OFFICE FUND",
+      "asset": "FII BC FUND",
+      "segment": "",
+      "code": "BRCR"
+    },
+    {
+      "company": "FDO INV IMOB - FII BTG PACTUAL asset DE assetS",
+      "asset": "FII BC FFII",
+      "segment": "",
+      "code": "BCFF"
+    },
+    {
+      "company": "FDO INV IMOB - FII CAMPUS FARIA LIMA",
+      "asset": "FII CAMPUSFL",
+      "segment": "",
+      "code": "FCFL"
+    },
+    {
+      "company": "FDO INV IMOB - FII CENESP",
+      "asset": "FII CENESP",
+      "segment": "",
+      "code": "CNES"
+    },
+    {
+      "company": "FDO INV IMOB - FII CEO CYRELA COMMERC. PROPERTIES",
+      "asset": "FII CEO CCP",
+      "segment": "",
+      "code": "CEOC"
+    },
+    {
+      "company": "FDO INV IMOB - FII EDIFÍCIO ALMIRANTE BARROSO",
+      "asset": "FII ALMIRANT",
+      "segment": "MB",
+      "code": "FAMB"
+    },
+    {
+      "company": "FDO INV IMOB - FII EDIFÍCIO GALERIA",
+      "asset": "FII GALERIA",
+      "segment": "",
+      "code": "EDGA"
+    },
+    {
+      "company": "FDO INV IMOB - FII ELDORADO",
+      "asset": "FII ELDORADO",
+      "segment": "MB",
+      "code": "ELDO"
+    },
+    {
+      "company": "FDO INV IMOB - FII FLORIPA SHOPPING",
+      "asset": "FII FLORIPA",
+      "segment": "",
+      "code": "FLRP"
+    },
+    {
+      "company": "FDO INV IMOB - FII HOSPITAL DA CRIANÇA",
+      "asset": "FII CRIANCA",
+      "segment": "",
+      "code": "HCRI"
+    },
+    {
+      "company": "FDO INV IMOB - FII HOSPITAL NOSSA SRA DE LOURDES",
+      "asset": "FII LOURDES",
+      "segment": "",
+      "code": "NSLU"
+    },
+    {
+      "company": "FDO INV IMOB - FII HOTEL MAXINVEST",
+      "asset": "FII HOTEL MX",
+      "segment": "",
+      "code": "HTMX"
+    },
+    {
+      "company": "FDO INV IMOB - FII MAX RETAIL",
+      "asset": "FII MAX RET",
+      "segment": "",
+      "code": "MAXR"
+    },
+    {
+      "company": "FDO INV IMOB - FII NCH BRASIL RECEBÍVEIS IMOB",
+      "asset": "FII NCH BR",
+      "segment": "",
+      "code": "NCHB"
+    },
+    {
+      "company": "FDO INV IMOB - FII NOVO HORIZONTE",
+      "asset": "FII NOVOHORI",
+      "segment": "",
+      "code": "NVHO"
+    },
+    {
+      "company": "FDO INV IMOB - FII PARQUE D. PEDRO SHOPPING CENTER",
+      "asset": "FII D PEDRO",
+      "segment": "",
+      "code": "PQDP"
+    },
+    {
+      "company": "FDO INV IMOB - FII PATEO BANDEIRANTES",
+      "asset": "FII PTO BAND",
+      "segment": "",
+      "code": "PATB"
+    },
+    {
+      "company": "FDO INV IMOB - FII RBR DESENVOLVIMENTO",
+      "asset": "FII RBR DES",
+      "segment": "",
+      "code": "RBRM"
+    },
+    {
+      "company": "FDO INV IMOB - FII RBR RENDIMENTO HIGH GRADE",
+      "asset": "FII RBRHGRAD",
+      "segment": "",
+      "code": "RBRR"
+    },
+    {
+      "company": "FDO INV IMOB - FII REC RECEBIVEIS IMOBILIARIOS",
+      "asset": "FII REC RECE",
+      "segment": "",
+      "code": "RECR"
+    },
+    {
+      "company": "FDO INV IMOB - FII REC RENDA IMOBILIARIA",
+      "asset": "FII REC REND",
+      "segment": "",
+      "code": "RECT"
+    },
+    {
+      "company": "FDO INV IMOB - FII SHOPPING JARDIM SUL",
+      "asset": "FII SHOPJSUL",
+      "segment": "",
+      "code": "JRDM"
+    },
+    {
+      "company": "FDO INV IMOB - FII SHOPPING PARQUE D. PEDRO",
+      "asset": "FII SHOP PDP",
+      "segment": "MB",
+      "code": "SHDP"
+    },
+    {
+      "company": "FDO INV IMOB - FII SIA CORPORATE",
+      "asset": "FII SIA CORP",
+      "segment": "MB",
+      "code": "SAIC"
+    },
+    {
+      "company": "FDO INV IMOB - FII TORRE ALMIRANTE",
+      "asset": "FII TORRE AL",
+      "segment": "",
+      "code": "ALMI"
+    },
+    {
+      "company": "FDO INV IMOB - FII TORRE NORTE",
+      "asset": "FII TORRE NO",
+      "segment": "",
+      "code": "TRNT"
+    },
+    {
+      "company": "FDO INV IMOB - FII VILA OLÍMPIA CORPORATE",
+      "asset": "FII OLIMPIA",
+      "segment": "",
+      "code": "VLOL"
+    },
+    {
+      "company": "FDO INV IMOB - OURINVEST asset DE assetS",
+      "asset": "FII OURI FOF",
+      "segment": "",
+      "code": "OUFF"
+    },
+    {
+      "company": "FDO INV IMOB - OURINVEST RE I",
+      "asset": "FII WTC SP",
+      "segment": "MB",
+      "code": "WTSP"
+    },
+    {
+      "company": "FDO INV IMOB - V2 PROPERTIES",
+      "asset": "FII V2 PROP",
+      "segment": "",
+      "code": "VVPR"
+    },
+    {
+      "company": "FDO INV IMOB - VBI LOGÍSTICO",
+      "asset": "FII VBI LOG",
+      "segment": "",
+      "code": "LVBI"
+    },
+    {
+      "company": "FDO INV IMOB BARIGUI RENDIMENTOS IMOB I FII",
+      "asset": "FII BARIGUI",
+      "segment": "",
+      "code": "BARI"
+    },
+    {
+      "company": "FDO INV IMOB BR HOTEIS - FII",
+      "asset": "FII BRHOTEIS",
+      "segment": "MB",
+      "code": "BRHT"
+    },
+    {
+      "company": "FDO INV IMOB BRASIL PLURAL ABSOLUTO FDO DE assetS",
+      "asset": "FII ABSOLUTO",
+      "segment": "",
+      "code": "BPFF"
+    },
+    {
+      "company": "FDO INV IMOB BRASIL VAREJO - FII",
+      "asset": "FII B VAREJO",
+      "segment": "",
+      "code": "BVAR"
+    },
+    {
+      "company": "FDO INV IMOB BTG PACTUAL SHOPPINGS",
+      "asset": "FII BTG SHOP",
+      "segment": "",
+      "code": "BPML"
+    },
+    {
+      "company": "FDO INV IMOB BTG PACTUAL TERRAS AGRÍCOLAS",
+      "asset": "FII BTG TAGR",
+      "segment": "",
+      "code": "BTRA"
+    },
+    {
+      "company": "FDO INV IMOB CAIXA CARTEIRA IMOBILIÁRIA",
+      "asset": "FII CAIXA CI",
+      "segment": "",
+      "code": "CXCI"
+    },
+    {
+      "company": "FDO INV IMOB CAIXA CEDAE",
+      "asset": "FII CX CEDAE",
+      "segment": "MB",
+      "code": "CXCE"
+    },
+    {
+      "company": "FDO INV IMOB CAIXA SEQ LOGÍSTICA RENDA",
+      "asset": "FII CX TRX",
+      "segment": "",
+      "code": "CXTL"
+    },
+    {
+      "company": "FDO INV IMOB CENTRO TEXTIL INTERNACIONAL",
+      "asset": "FII C TEXTIL",
+      "segment": "",
+      "code": "CTXT"
+    },
+    {
+      "company": "FDO INV IMOB CJ - FII",
+      "asset": "FII CJ",
+      "segment": "",
+      "code": "CJFI"
+    },
+    {
+      "company": "FDO INV IMOB CONTINENTAL SQUARE FARIA LIMA",
+      "asset": "FII S F LIMA",
+      "segment": "",
+      "code": "FLMA"
+    },
+    {
+      "company": "FDO INV IMOB EDIFÍCIO OURINVEST",
+      "asset": "FII OURINVES",
+      "segment": "MB",
+      "code": "EDFO"
+    },
+    {
+      "company": "FDO INV IMOB EUROPAR",
+      "asset": "FII EUROPAR",
+      "segment": "",
+      "code": "EURO"
+    },
+    {
+      "company": "FDO INV IMOB GENERAL SEVERIANO - FII",
+      "asset": "FII GEN SEV",
+      "segment": "MB",
+      "code": "GESE"
+    },
+    {
+      "company": "FDO INV IMOB GRAND PLAZA SHOPPING",
+      "asset": "FII ABC IMOB",
+      "segment": "",
+      "code": "ABCP"
+    },
+    {
+      "company": "FDO INV IMOB GREEN TOWERS",
+      "asset": "FII G TOWERS",
+      "segment": "",
+      "code": "GTWR"
+    },
+    {
+      "company": "FDO INV IMOB HABITAT I",
+      "asset": "FII HABITAT",
+      "segment": "",
+      "code": "HBTT"
+    },
+    {
+      "company": "FDO INV IMOB HOSPITAL UNIMED CAMPINA GRANDE",
+      "asset": "FII UNIMED C",
+      "segment": "",
+      "code": "HUCG"
+    },
+    {
+      "company": "FDO INV IMOB HOSPITAL UNIMED SUL CAPIXABA",
+      "asset": "FII H UNIMED",
+      "segment": "",
+      "code": "HUSC"
+    },
+    {
+      "company": "FDO INV IMOB INDUSTRIAL DO BRASIL",
+      "asset": "FII INDL BR",
+      "segment": "",
+      "code": "FIIB"
+    },
+    {
+      "company": "FDO INV IMOB INFRA REAL ESTATE - FII",
+      "asset": "FII INFRA RE",
+      "segment": "",
+      "code": "FINF"
+    },
+    {
+      "company": "FDO INV IMOB MEMORIAL OFFICE",
+      "asset": "FII MEMORIAL",
+      "segment": "",
+      "code": "FMOF"
+    },
+    {
+      "company": "FDO INV IMOB MOGNO asset DE assetS",
+      "asset": "FII MOGNO",
+      "segment": "",
+      "code": "MGFF"
+    },
+    {
+      "company": "FDO INV IMOB MV9 - FII",
+      "asset": "FII MV9",
+      "segment": "",
+      "code": "MVFI"
+    },
+    {
+      "company": "FDO INV IMOB OURINVEST LOGÍSTICA",
+      "asset": "FII OURILOG",
+      "segment": "",
+      "code": "OULG"
+    },
+    {
+      "company": "FDO INV IMOB PANAMBY",
+      "asset": "FII PANAMBY",
+      "segment": "",
+      "code": "PABY"
+    },
+    {
+      "company": "FDO INV IMOB PEDRA NEGRA RENDA IMOB",
+      "asset": "FII P NEGRA",
+      "segment": "",
+      "code": "FPNG"
+    },
+    {
+      "company": "FDO INV IMOB POLO ESTOQUE II - FII",
+      "asset": "FII POLO II",
+      "segment": "",
+      "code": "ESTQ"
+    },
+    {
+      "company": "FDO INV IMOB POLO SHOPPING INDAIATUBA",
+      "asset": "FII POLO SHO",
+      "segment": "",
+      "code": "VPSI"
+    },
+    {
+      "company": "FDO INV IMOB PROJETO ÁGUA BRANCA",
+      "asset": "FII A BRANCA",
+      "segment": "",
+      "code": "FPAB"
+    },
+    {
+      "company": "FDO INV IMOB RBR CREDITO IMOB ESTRUTURADO",
+      "asset": "FII RBR PCRI",
+      "segment": "",
+      "code": "RBRY"
+    },
+    {
+      "company": "FDO INV IMOB RBR PROPERTIES - FII",
+      "asset": "FII RBR PROP",
+      "segment": "",
+      "code": "RBRP"
+    },
+    {
+      "company": "FDO INV IMOB RIO BRAVO RENDA CORPORATIVA",
+      "asset": "FII RIOB RC",
+      "segment": "",
+      "code": "RCRB"
+    },
+    {
+      "company": "FDO INV IMOB RIO BRAVO RENDA EDUCACIONAL - FII",
+      "asset": "FII RIOB ED",
+      "segment": "",
+      "code": "RBED"
+    },
+    {
+      "company": "FDO INV IMOB RIO BRAVO RENDA VAREJO - FII",
+      "asset": "FII RIOB VA",
+      "segment": "",
+      "code": "RBVA"
+    },
+    {
+      "company": "FDO INV IMOB RIO NEGRO - FII",
+      "asset": "FII RIONEGRO",
+      "segment": "",
+      "code": "RNGO"
+    },
+    {
+      "company": "FDO INV IMOB SÃO FERNANDO",
+      "asset": "FII SAO FER",
+      "segment": "",
+      "code": "SFND"
+    },
+    {
+      "company": "FDO INV IMOB SC 401",
+      "asset": "FII SC 401",
+      "segment": "",
+      "code": "FISC"
+    },
+    {
+      "company": "FDO INV IMOB SCP",
+      "asset": "FII SCP",
+      "segment": "",
+      "code": "SCPF"
+    },
+    {
+      "company": "FDO INV IMOB SDI RIO BRAVO RENDA LOGISTICA - FII",
+      "asset": "FII SDI LOG",
+      "segment": "",
+      "code": "SDIL"
+    },
+    {
+      "company": "FDO INV IMOB SHOPPING PÁTIO HIGIENÓPOLIS",
+      "asset": "FII HIGIENOP",
+      "segment": "",
+      "code": "SHPH"
+    },
+    {
+      "company": "FDO INV IMOB TG ATIVO REAL",
+      "asset": "FII TG ATIVO",
+      "segment": "",
+      "code": "TGAR"
+    },
+    {
+      "company": "FDO INV IMOB THE ONE",
+      "asset": "FII THE ONE",
+      "segment": "",
+      "code": "ONEF"
+    },
+    {
+      "company": "FDO INV IMOB VEREDA - FII",
+      "asset": "FII VEREDA",
+      "segment": "",
+      "code": "VERE"
+    },
+    {
+      "company": "FDO INV IMOB VIA PARQUE SHOPPING - FII",
+      "asset": "FII V PARQUE",
+      "segment": "",
+      "code": "FVPQ"
+    },
+    {
+      "company": "FDO INV IMOB VIDA NOVA - FII",
+      "asset": "FII VIDANOVA",
+      "segment": "",
+      "code": "FIVN"
+    },
+    {
+      "company": "FDO INV IMOB VOTORANTIM LOGISTICA",
+      "asset": "FII VOT LOG",
+      "segment": "",
+      "code": "VTLT"
+    },
+    {
+      "company": "FDO INV IMOB VOTORANTIM SECURITIES",
+      "asset": "FII VOT SEC",
+      "segment": "",
+      "code": "VSEC"
+    },
+    {
+      "company": "FDO INV IMOB VOTORANTIM SHOPPING",
+      "asset": "FII VOT SHOP",
+      "segment": "",
+      "code": "VSHO"
+    },
+    {
+      "company": "FDO INV IMOBILIÁRIO DE UNIDADES AUTÔNOMAS",
+      "asset": "FII UNIDADES",
+      "segment": "",
+      "code": "IDFI"
+    },
+    {
+      "company": "FDO INV. IMOB. PLURAL RECEBIVEIS",
+      "asset": "FII PLURAL R",
+      "segment": "",
+      "code": "PLCR"
+    },
+    {
+      "company": "FDO INV. IMOB. PLUS",
+      "asset": "FII PLUS",
+      "segment": "",
+      "code": "VTPL"
+    },
+    {
+      "company": "FDO INV. IMOB. REC LOGISTICA",
+      "asset": "FII REC LOG",
+      "segment": "",
+      "code": "RELG"
+    },
+    {
+      "company": "FDO INV. IMOB. VBI CRI",
+      "asset": "FII VBI CRI",
+      "segment": "",
+      "code": "CVBI"
+    },
+    {
+      "company": "FDO INV. MAUA CAPITAL RECEBIVEIS IMOB. - FII",
+      "asset": "FII MAUA",
+      "segment": "",
+      "code": "MCCI"
+    },
+    {
+      "company": "FDO INVEST IMOB GRAND PLAZA MALL",
+      "asset": "FII GRPLMALL",
+      "segment": "",
+      "code": "FGPM"
+    },
+    {
+      "company": "FDO. INV. IMOB. A - TOWN",
+      "asset": "FII A TOWN",
+      "segment": "",
+      "code": "ATWN"
+    },
+    {
+      "company": "FDO. INV. IMOB. ÁTRIO REIT RECEBÍVEIS IMOBILIÁRIOS",
+      "asset": "FII ATRIO",
+      "segment": "",
+      "code": "ARRI"
+    },
+    {
+      "company": "FDO. INV. IMOB. BTG PACTUAL AGRO LOGÍSTICA",
+      "asset": "FII BTG AGRO",
+      "segment": "",
+      "code": "BTAL"
+    },
+    {
+      "company": "FDO. INV. IMOB. CAIXA IMÓVEIS CORPORATIVOS",
+      "asset": "FII CEF CORP",
+      "segment": "",
+      "code": "CXCO"
+    },
+    {
+      "company": "FDO. INV. IMOB. HOUSI",
+      "asset": "FII HOUSI",
+      "segment": "",
+      "code": "HOSI"
+    },
+    {
+      "company": "FDO. INV. IMOB. MOGNO HOTEIS",
+      "asset": "FII MOGNO HT",
+      "segment": "",
+      "code": "MGHT"
+    },
+    {
+      "company": "FDO. INV. IMOB. REC asset DE assetS",
+      "asset": "FII REC FOF",
+      "segment": "",
+      "code": "RECX"
+    },
+    {
+      "company": "FDO. INV. IMOB. VBI PRIME PROPERTIES",
+      "asset": "FII VBI PRI",
+      "segment": "",
+      "code": "PVBI"
+    },
+    {
+      "company": "FDO. INVEST. IMOB. DEVANT FOF IMOBILIÁRIOS",
+      "asset": "FII DEVA FOF",
+      "segment": "",
+      "code": "DVFF"
+    },
+    {
+      "company": "FDO. INVEST. IMOB. RB CAPITAL I asset DE assetS",
+      "asset": "FII RB CFOF",
+      "segment": "",
+      "code": "RFOF"
+    },
+    {
+      "company": "FDO. INVEST. IMOB. VOTORANTIM PATRIMONIAL V",
+      "asset": "FII VOTP V",
+      "segment": "",
+      "code": "VTPA"
+    },
+    {
+      "company": "FDO. INVEST. IMOB. VOTORANTIM PATRIMONIAL XII",
+      "asset": "FII VOTP XII",
+      "segment": "",
+      "code": "VTXI"
+    },
+    {
+      "company": "FDO.INVEST. IMOB. MULTI RENDA URBANA",
+      "asset": "FII MULT REN",
+      "segment": "",
+      "code": "HBRH"
+    },
+    {
+      "company": "FII BTG PACTUAL CRÉDITO IMOBILIÁRIO",
+      "asset": "FII BTG CRI",
+      "segment": "",
+      "code": "BTCI"
+    },
+    {
+      "company": "FII CENTRAL LEBLON - FDO INV IMOB",
+      "asset": "FII C LEBLON",
+      "segment": "",
+      "code": "CCLB"
+    },
+    {
+      "company": "FII IRIDIUM RECEBÍVEIS IMOBILIÁRIOS",
+      "asset": "FII IRIDIUM",
+      "segment": "",
+      "code": "IRDM"
+    },
+    {
+      "company": "FRAM CAPITAL SBCLOG FDO. INV. IMOB.",
+      "asset": "FII SBCLOG",
+      "segment": "",
+      "code": "SBCL"
+    },
+    {
+      "company": "FRONTEIRA MULTI asset DE INVESTIMENTO IMOBILIÁRIO",
+      "asset": "FII FRONT",
+      "segment": "",
+      "code": "FRHY"
+    },
+    {
+      "company": "FUND. INVEST. IMOB. SUCCESPAR VAREJO",
+      "asset": "FII S VAREJO",
+      "segment": "",
+      "code": "SPVJ"
+    },
+    {
+      "company": "asset DE FDO INV IMOB KINEA FII",
+      "asset": "FII KINEAFOF",
+      "segment": "",
+      "code": "KFOF"
+    },
+    {
+      "company": "asset DE INVEST IMOB OURINVEST RENDA ESTRUTURADA",
+      "asset": "FII OU RENDA",
+      "segment": "",
+      "code": "OURE"
+    },
+    {
+      "company": "asset DE INVEST IMOBILIARIO SUNO ENERGIAS LIMPAS",
+      "asset": "FII SUNO EL",
+      "segment": "",
+      "code": "SNEL"
+    },
+    {
+      "company": "asset DE INVESTIMENTO IMOBILIÁRIO - BLUE RECEBÍVEI",
+      "asset": "FII BLUE REC",
+      "segment": "",
+      "code": "BLUR"
+    },
+    {
+      "company": "asset DE INVESTIMENTO IMOBILIÁRIO - DEVELOPMENT V1",
+      "asset": "FII DEV ONE",
+      "segment": "",
+      "code": "LKDV"
+    },
+    {
+      "company": "asset DE INVESTIMENTO IMOBILIÁRIO - FII RBR DESENV",
+      "asset": "FII RBR III",
+      "segment": "",
+      "code": "RBRI"
+    },
+    {
+      "company": "asset DE INVESTIMENTO IMOBILIÁRIO - SPX SYN MULT",
+      "asset": "FII SPX SYN",
+      "segment": "",
+      "code": "SPXS"
+    },
+    {
+      "company": "asset DE INVESTIMENTO IMOBILIÁRIO APEX MALLS - FII",
+      "asset": "FII APEX MS",
+      "segment": "",
+      "code": "APXM"
+    },
+    {
+      "company": "asset DE INVESTIMENTO IMOBILIÁRIO ATHENA I",
+      "asset": "FII ATHENA I",
+      "segment": "",
+      "code": "FATN"
+    },
+    {
+      "company": "asset DE INVESTIMENTO IMOBILIÁRIO BRL PROP II",
+      "asset": "FII BRLPROII",
+      "segment": "",
+      "code": "BRLA"
+    },
+    {
+      "company": "asset DE INVESTIMENTO IMOBILIÁRIO CAIXA AGÊNCIAS",
+      "asset": "FII CAIXA AG",
+      "segment": "",
+      "code": "CXAG"
+    },
+    {
+      "company": "asset DE INVESTIMENTO IMOBILIÁRIO HBC RENDA URBANA",
+      "asset": "FII HBC REN",
+      "segment": "",
+      "code": "HBCR"
+    },
+    {
+      "company": "asset DE INVESTIMENTO IMOBILIÁRIO MINT EDUCACIONAL",
+      "asset": "FII MINT EDU",
+      "segment": "",
+      "code": "MINT"
+    },
+    {
+      "company": "asset DE INVESTIMENTO IMOBILIÁRIO RIZA TERRAX",
+      "asset": "FII RIZA TX",
+      "segment": "",
+      "code": "RZTR"
+    },
+    {
+      "company": "asset DE INVESTIMENTO IMOBILIÁRIO ROOFTOP I",
+      "asset": "FII ROOFTOPI",
+      "segment": "",
+      "code": "ROOF"
+    },
+    {
+      "company": "G5 CIDADE NOVA FDO. INVEST. IMOB.",
+      "asset": "FII TOUR V",
+      "segment": "",
+      "code": "TCIN"
+    },
+    {
+      "company": "GALAPAGOS FDO DE FDO - FII FDO INV. IMOB.",
+      "asset": "FII GALAPAGO",
+      "segment": "",
+      "code": "GCFF"
+    },
+    {
+      "company": "GALAPAGOS RECEBÍVEIS IMOBILIÁRIOS - FDO. INV. IMOB",
+      "asset": "FII GLPG CRI",
+      "segment": "",
+      "code": "GCRI"
+    },
+    {
+      "company": "GALAPAGOS SPECIAL OPORTUNITIES FII",
+      "asset": "FII GALAP SP",
+      "segment": "",
+      "code": "GCOI"
+    },
+    {
+      "company": "GAZIT MALLS asset DE INVESTIMENTO IMOBILIÁRIO",
+      "asset": "FII GAZIT",
+      "segment": "",
+      "code": "GZIT"
+    },
+    {
+      "company": "GENERAL SHOP E OUTLETS DO BRASIL FDO INV IMOB - FI",
+      "asset": "FII GENERAL",
+      "segment": "",
+      "code": "GSFI"
+    },
+    {
+      "company": "GENERAL SHOPPING ATIVO E RENDA asset DE INV, IMOB.",
+      "asset": "FII GEN SHOP",
+      "segment": "",
+      "code": "FIGS"
+    },
+    {
+      "company": "GENIAL RENDA URBANA FDO DE INV IMOB",
+      "asset": "FII PLUR URB",
+      "segment": "",
+      "code": "GURB"
+    },
+    {
+      "company": "GGR COVEPI RENDA FDO INV IMOB",
+      "asset": "FII GGRCOVEP",
+      "segment": "",
+      "code": "GGRC"
+    },
+    {
+      "company": "GRUPO RCFA FDO INV IMOB",
+      "asset": "FII GP RCFA",
+      "segment": "",
+      "code": "RCFA"
+    },
+    {
+      "company": "GTIS BRAZIL LOGISTICS FDO. INV. IMOB.",
+      "asset": "FII GTIS LG",
+      "segment": "",
+      "code": "GTLG"
+    },
+    {
+      "company": "GUARDIAN LOGISTICA FDO. INVEST. IMOB.",
+      "asset": "FII GUARDIAN",
+      "segment": "",
+      "code": "GALG"
+    },
+    {
+      "company": "HABITAT II - FDO INV IMOB",
+      "asset": "FII HABIT II",
+      "segment": "",
+      "code": "HABT"
+    },
+    {
+      "company": "HAZ FDO INV IMOB - FII",
+      "asset": "FII HAZ",
+      "segment": "",
+      "code": "ATCR"
+    },
+    {
+      "company": "HECTARE CE - FDO INV IMOB",
+      "asset": "FII HECTARE",
+      "segment": "",
+      "code": "HCTR"
+    },
+    {
+      "company": "HECTARE DESENV. STUDENT HOUSING - FDO. INV. IMOB.",
+      "asset": "FII HECT DES",
+      "segment": "",
+      "code": "HCST"
+    },
+    {
+      "company": "HECTARE PROPERTIES FDO DE INV IMOB - FII",
+      "asset": "FII HECT PRP",
+      "segment": "",
+      "code": "HCPR"
+    },
+    {
+      "company": "HECTARE RECEBÍVEIS HIGH GRADE FDO. INV. IMOB.",
+      "asset": "FII HECT CRI",
+      "segment": "",
+      "code": "HCHG"
+    },
+    {
+      "company": "HEDGE AAA FDO. INV. IMOB.",
+      "asset": "FII HEDGEAAA",
+      "segment": "",
+      "code": "HAAA"
+    },
+    {
+      "company": "HEDGE ATRIUM SHOPPING SANTO ANDRE FDO INV IMOB",
+      "asset": "FII HATRIUM",
+      "segment": "",
+      "code": "ATSA"
+    },
+    {
+      "company": "HEDGE BRASIL SHOPPING FDO INV IMOB",
+      "asset": "FII HEDGEBS",
+      "segment": "",
+      "code": "HGBS"
+    },
+    {
+      "company": "HEDGE DESENVOLVIMENTO LOGÍSTICO FDO INV IMOB",
+      "asset": "FII HEDGE DV",
+      "segment": "",
+      "code": "HDEL"
+    },
+    {
+      "company": "HEDGE LOGÍSTICA FDO. INV. IMOB.",
+      "asset": "FII HEDGELOG",
+      "segment": "",
+      "code": "HLOG"
+    },
+    {
+      "company": "HEDGE OFFICE INCOME asset DE INVESTIMENTO IMOB.",
+      "asset": "FII HOFFICEI",
+      "segment": "",
+      "code": "HOFC"
+    },
+    {
+      "company": "HEDGE PALADIN DESIGN OFFICES FDO INV IMOB",
+      "asset": "FII HEDGE OF",
+      "segment": "",
+      "code": "HDOF"
+    },
+    {
+      "company": "HEDGE REALTY DEVELOPMENT FDO INV IMOB",
+      "asset": "FII HREALTY",
+      "segment": "",
+      "code": "HRDF"
+    },
+    {
+      "company": "HEDGE RECEBIVEIS IMOB. asset DE INVST. IMOB.",
+      "asset": "FII HEDGEREC",
+      "segment": "",
+      "code": "HREC"
+    },
+    {
+      "company": "HEDGE SEED asset DE INVESTIMENTO IMOBILIÁRIO",
+      "asset": "FII HEDGE SD",
+      "segment": "",
+      "code": "SEED"
+    },
+    {
+      "company": "HEDGE SHOPPING PARQUE DOM PEDRO FDO. DE INV. IMOB.",
+      "asset": "FII HEDGEPDP",
+      "segment": "",
+      "code": "HPDP"
+    },
+    {
+      "company": "HEDGE TOP FOFII 3 FDO INV IMOB",
+      "asset": "FII HTOPFOF3",
+      "segment": "",
+      "code": "HFOF"
+    },
+    {
+      "company": "HGI CRÉDITOS IMOBILIÁRIOS FDO. INV. IMOB.",
+      "asset": "FII HGI CRI",
+      "segment": "",
+      "code": "HGIC"
+    },
+    {
+      "company": "HSI ATIVOS FINANCEIROS asset DE INVESTIMENTO IMOBI",
+      "asset": "FII HSI CRI",
+      "segment": "",
+      "code": "HSAF"
+    },
+    {
+      "company": "HSI LOGÍSTICA asset DE INVESTIMENTO IMOBILIÁRIO",
+      "asset": "FII HSI LOG",
+      "segment": "",
+      "code": "HSLG"
+    },
+    {
+      "company": "HSI MALL FDO INV IMOB",
+      "asset": "FII HSI MALL",
+      "segment": "",
+      "code": "HSML"
+    },
+    {
+      "company": "HSI RENDA IMOB FDO INV IMOB",
+      "asset": "FII HSIRENDA",
+      "segment": "",
+      "code": "HSRE"
+    },
+    {
+      "company": "HUSI FDO INV. IMOB.",
+      "asset": "FII HUSI",
+      "segment": "",
+      "code": "HUSI"
+    },
+    {
+      "company": "INTER TEVA INDICE DE PAPEL asset DE INVESTIMENTO",
+      "asset": "FII INTER IP",
+      "segment": "",
+      "code": "ITIP"
+    },
+    {
+      "company": "INTER TÍTULOS IMOB. FDO INV. IMOB.",
+      "asset": "FII INTER",
+      "segment": "",
+      "code": "BICR"
+    },
+    {
+      "company": "IRIDIUM asset DE INVESTIMENTO IMOBILIÁRIO",
+      "asset": "FII IRIM",
+      "segment": "",
+      "code": "IRIM"
+    },
+    {
+      "company": "JACARANDÁ 02 asset DE INVESTIMENTO IMOBILIÁRIO FII",
+      "asset": "FII JCDB 02",
+      "segment": "",
+      "code": "JCDB"
+    },
+    {
+      "company": "JACARANDÁ I asset DE INVESTIMENTO IMOBILIÁRIO -FII",
+      "asset": "FII JCDA I",
+      "segment": "",
+      "code": "JCDA"
+    },
+    {
+      "company": "JBFO FOF FDO INV. IMOB.",
+      "asset": "FII JBFO FOF",
+      "segment": "",
+      "code": "JBFO"
+    },
+    {
+      "company": "JFDCAM asset DE INVESTIMENTO IMOBILIÁRIO FII",
+      "asset": "FII JFDCAM",
+      "segment": "",
+      "code": "VJFD"
+    },
+    {
+      "company": "JFL LIVING FDO. INV. IMOB.",
+      "asset": "FII JFL LIV",
+      "segment": "",
+      "code": "JFLL"
+    },
+    {
+      "company": "JPP CAPITAL FDO INV IMOB - FII",
+      "asset": "FII JPP CAPI",
+      "segment": "",
+      "code": "JPPC"
+    },
+    {
+      "company": "JPP CAPITAL RECEBIVEIS IMOB. FDO. INVEST. IMOB.",
+      "asset": "FII JPPMOGNO",
+      "segment": "",
+      "code": "JPPA"
+    },
+    {
+      "company": "JS ATIVOS FINANCEIROS FDO DE INV IMOBILIÁRIO",
+      "asset": "FII JS A FIN",
+      "segment": "",
+      "code": "JSAF"
+    },
+    {
+      "company": "JS REAL ESTATE MULTIGESTÃO - FII",
+      "asset": "FII JS REAL",
+      "segment": "",
+      "code": "JSRE"
+    },
+    {
+      "company": "JT PREV FDO INV IMOB DESENVOLVIMENTO HABITACIONAL",
+      "asset": "FII JT PREV",
+      "segment": "",
+      "code": "JTPR"
+    },
+    {
+      "company": "KILIMA FIC FDO. IMOB. SUNO 30",
+      "asset": "FII KILIMA",
+      "segment": "",
+      "code": "KISU"
+    },
+    {
+      "company": "KILIMA VOLKANO RECEBÍVEIS IMOB FDO DE INV IMOB",
+      "asset": "FII KIVO",
+      "segment": "",
+      "code": "KIVO"
+    },
+    {
+      "company": "KINEA CREDITAS FDO DE INV IMOBILIÁRIO - FII",
+      "asset": "FII KINEA CR",
+      "segment": "",
+      "code": "KCRE"
+    },
+    {
+      "company": "KINEA HIGH YIELD CRI FDO INV IMOB - FII",
+      "asset": "FII KINEA HY",
+      "segment": "",
+      "code": "KNHY"
+    },
+    {
+      "company": "KINEA II REAL ESTATE EQUITY FDO INV IMOB",
+      "asset": "FII KII REAL",
+      "segment": "",
+      "code": "KNRE"
+    },
+    {
+      "company": "KINEA ÍNDICES DE PREÇOS FDO INV IMOB - FII",
+      "asset": "FII KINEA IP",
+      "segment": "",
+      "code": "KNIP"
+    },
+    {
+      "company": "KINEA PREMIUM PROPERTIES FDO INV IMOB",
+      "asset": "FII KINEA PR",
+      "segment": "",
+      "code": "KNPR"
+    },
+    {
+      "company": "KINEA RENDA IMOBILIÁRIA FDO INV IMOB - FII",
+      "asset": "FII KINEA",
+      "segment": "",
+      "code": "KNRI"
+    },
+    {
+      "company": "KINEA RENDIMENTOS IMOBILIÁRIOS FDO INV IMOB - FII",
+      "asset": "FII KINEA RI",
+      "segment": "",
+      "code": "KNCR"
+    },
+    {
+      "company": "KINEA SECURITIES FDO. DE INV. IMOB. - FII",
+      "asset": "FII KINEA SC",
+      "segment": "",
+      "code": "KNSC"
+    },
+    {
+      "company": "LAGO DA PEDRA - asset DE INVESTIMENTO IMOBILIÁRIO",
+      "asset": "FII LAGO PDR",
+      "segment": "",
+      "code": "LPLP"
+    },
+    {
+      "company": "LATERES FDO INV IMOB - FII",
+      "asset": "FII LATERES",
+      "segment": "MB",
+      "code": "LATR"
+    },
+    {
+      "company": "LEGATUS SHOPPINGS FDO. INV. IMOB. - FII",
+      "asset": "FII LEGATUS",
+      "segment": "",
+      "code": "LASC"
+    },
+    {
+      "company": "LESTE RIVA EQUITY PREFERENCIAL I FDO. INV. IMOB.",
+      "asset": "FII LESTE PA",
+      "segment": "",
+      "code": "LSPA"
+    },
+    {
+      "company": "LIFE CAPITAL PARTNERS asset DE INVESTIMENTO IMOB",
+      "asset": "FII LIFE",
+      "segment": "",
+      "code": "LIFE"
+    },
+    {
+      "company": "LOFT I - FDO INV IMOB",
+      "asset": "FII LOFT I",
+      "segment": "MB",
+      "code": "LOFT"
+    },
+    {
+      "company": "LOFT II asset DE INVESTIMENTO IMOBILIÁRIO",
+      "asset": "FII LOFT II",
+      "segment": "",
+      "code": "LFTT"
+    },
+    {
+      "company": "LOGCP INTER FDO INV IMOB",
+      "asset": "FII LGCP INT",
+      "segment": "",
+      "code": "LGCP"
+    },
+    {
+      "company": "LUGGO FDO. INV. IMOB.",
+      "asset": "FII LUGGO",
+      "segment": "",
+      "code": "LUGG"
+    },
+    {
+      "company": "MALLS BRASIL PLURAL FDO INV IMOB",
+      "asset": "FII MALLS BP",
+      "segment": "",
+      "code": "MALL"
+    },
+    {
+      "company": "MANATÍ CAPITAL HEDGE FUND FDO INV IMOB",
+      "asset": "FII MANATI",
+      "segment": "",
+      "code": "MANA"
+    },
+    {
+      "company": "MARESIAS asset DE INVESTIMENTO IMOBILIÁRIO",
+      "asset": "FII MMVE OP",
+      "segment": "",
+      "code": "MMVE"
+    },
+    {
+      "company": "MAUÁ CAPITAL HEDGE FUND - FDO. INVEST. IMOB.",
+      "asset": "FII MAUA HF",
+      "segment": "",
+      "code": "MCHF"
+    },
+    {
+      "company": "MAXI RENDA FDO INV IMOB - FII",
+      "asset": "FII MAXI REN",
+      "segment": "",
+      "code": "MXRF"
+    },
+    {
+      "company": "MÉRITO DESENVOLVIMENTO IMOBILIÁRIO I FII - FII",
+      "asset": "FII MERITO I",
+      "segment": "",
+      "code": "MFII"
+    },
+    {
+      "company": "MERITO FDO. AÇÕES IMOB. FII - FDO INV. IMOB.",
+      "asset": "FII MERITOFA",
+      "segment": "",
+      "code": "MFAI"
+    },
+    {
+      "company": "MÉRITO RECEBÍVEIS IMOBILIÁRIOS FII - FDO INV IMOB",
+      "asset": "FII MERITO R",
+      "segment": "",
+      "code": "MFCR"
+    },
+    {
+      "company": "MOGNO PROPERTIES asset DE INVESTIMENTO IMOBILIARIO",
+      "asset": "FII MGRI",
+      "segment": "",
+      "code": "MGRI"
+    },
+    {
+      "company": "MOGNO SUNO LOGÍSTICA FDO INV IMOB - FII",
+      "asset": "FII MOGNO LG",
+      "segment": "",
+      "code": "MGLG"
+    },
+    {
+      "company": "MORE GESTÃO ATIVA DE RECEBÍVEIS FDO DE INV IMOB",
+      "asset": "FII MORE ATV",
+      "segment": "",
+      "code": "MATV"
+    },
+    {
+      "company": "MORE REAL ESTATE FOF FII FDO. INV. IMOB.",
+      "asset": "FII MORE RE",
+      "segment": "",
+      "code": "MORE"
+    },
+    {
+      "company": "MORE RECEBÍVEIS IMOBILIÁRIOS FII FDO. INV. IMOB.",
+      "asset": "FII MORE CRI",
+      "segment": "",
+      "code": "MORC"
+    },
+    {
+      "company": "MULTI PROPERTIES FDO INV IMOB - FII",
+      "asset": "FII MULTPROP",
+      "segment": "",
+      "code": "PRTS"
+    },
+    {
+      "company": "MULTI SHOPPINGS FDO INV IMOB - FII",
+      "asset": "FII MULTSHOP",
+      "segment": "",
+      "code": "SHOP"
+    },
+    {
+      "company": "MULTIGESTÃO RENDA COMERCIAL FDO INV IMOB - FII",
+      "asset": "FII MTGESTAO",
+      "segment": "MB",
+      "code": "DRIT"
+    },
+    {
+      "company": "MULTIOFFICES 2 - FDO. INV. IMOB.",
+      "asset": "FII MULT OF2",
+      "segment": "",
+      "code": "MOFF"
+    },
+    {
+      "company": "NAVI CRÉDITO IMOBILIÁRIO - FDO INV IMOB",
+      "asset": "FII NAVI CRI",
+      "segment": "",
+      "code": "NCRI"
+    },
+    {
+      "company": "NAVI IMOBILIÁRIO TOTAL RETURN FDO. INVEST. IMOB.",
+      "asset": "FII NAVI TOT",
+      "segment": "",
+      "code": "NAVT"
+    },
+    {
+      "company": "NAVI RESIDENCIAL asset DE INVESTIMENTO IMOBILIÁRIO",
+      "asset": "FII NAVI RSD",
+      "segment": "",
+      "code": "APTO"
+    },
+    {
+      "company": "NEWPORT LOGÍSTICA FDO INV. IMOB.",
+      "asset": "FII NEWPORT",
+      "segment": "",
+      "code": "NEWL"
+    },
+    {
+      "company": "NEWPORT RENDA URBANA FDO INV IMOB",
+      "asset": "FII NEWRU",
+      "segment": "",
+      "code": "NEWU"
+    },
+    {
+      "company": "NOVA I - FDO INV IMOB - FII",
+      "asset": "FII NOVA I",
+      "segment": "MB",
+      "code": "NVIF"
+    },
+    {
+      "company": "OPPORTUNITY FDO INV IMOB",
+      "asset": "FII OPPORTUN",
+      "segment": "MB",
+      "code": "FTCE"
+    },
+    {
+      "company": "ÓRAMA HIGH YIELD FDO INV IMOB",
+      "asset": "FII ORAMA",
+      "segment": "",
+      "code": "OGHY"
+    },
+    {
+      "company": "OURINVEST JPP FDO INV IMOB - FII",
+      "asset": "FII OURI JPP",
+      "segment": "",
+      "code": "OUJP"
+    },
+    {
+      "company": "PANORAMA DESENVOLVIMENTO LOGÍSTICO FDO. INV. IMOB.",
+      "asset": "FII PANORAMA",
+      "segment": "",
+      "code": "PNDL"
+    },
+    {
+      "company": "PANORAMA LAST MILE SBC FDO INV IMOB",
+      "asset": "FII LASTMILE",
+      "segment": "",
+      "code": "PNLN"
+    },
+    {
+      "company": "PANORAMA PROPERTIES FDO. INVEST. IMOB.",
+      "asset": "FII PAN PROP",
+      "segment": "",
+      "code": "PNPR"
+    },
+    {
+      "company": "PANORAMA REAL ESTATE CRÉDITO FDO INV IMOB",
+      "asset": "FII PNRC",
+      "segment": "",
+      "code": "PNRC"
+    },
+    {
+      "company": "PARKING PARTNERS FDO. INVEST. IMOB.",
+      "asset": "FII PARK PAR",
+      "segment": "",
+      "code": "VTVI"
+    },
+    {
+      "company": "PARQUE ANHANGUERA FDO. INVEST. IMOB.",
+      "asset": "FII PARQ ANH",
+      "segment": "",
+      "code": "PQAG"
+    },
+    {
+      "company": "PÁTRIA EDIFÍCIOS CORPORATIVOS FDO INV IMOB - FII",
+      "asset": "FII PATRIA",
+      "segment": "",
+      "code": "PATC"
+    },
+    {
+      "company": "PÁTRIA LOGÍSTICA asset DE INVESTIMENTO IMOBILIÁRIO",
+      "asset": "FII PATR LOG",
+      "segment": "",
+      "code": "PATL"
+    },
+    {
+      "company": "PERFORMA REAL ESTATE - FDO. INV. IMOB.",
+      "asset": "FII PERFORMA",
+      "segment": "",
+      "code": "PEMA"
+    },
+    {
+      "company": "PERSONALE I FDO INV IMOB - FII",
+      "asset": "FII PERSONAL",
+      "segment": "MB",
+      "code": "PRSN"
+    },
+    {
+      "company": "PLURAL LOGÍSTICA FDO. INV. IMOB.",
+      "asset": "FII PLURAL L",
+      "segment": "",
+      "code": "PLOG"
+    },
+    {
+      "company": "POLO CREDITO IMOBILIARIO- FII",
+      "asset": "FII POLO CRI",
+      "segment": "",
+      "code": "PORD"
+    },
+    {
+      "company": "POLO FDO INV IMOB - FII RECEBÍVEIS IMOBILIÁRIOS I",
+      "asset": "FII POLO I",
+      "segment": "",
+      "code": "PLRI"
+    },
+    {
+      "company": "PRAIA DO CASTELO asset DE INVESTIMENTO IMOBILIÁRIO",
+      "asset": "FII PRAIA CS",
+      "segment": "",
+      "code": "PCAS"
+    },
+    {
+      "company": "PRAZO - asset DE INVESTIMENTO IMOBILIÁRIO - FII",
+      "asset": "FII PRAZO",
+      "segment": "",
+      "code": "PRZS"
+    },
+    {
+      "company": "PRESIDENTE VARGAS FDO INV IMOB",
+      "asset": "FII P VARGAS",
+      "segment": "",
+      "code": "PRSV"
+    },
+    {
+      "company": "PROLOGIS BRAZIL LOGISTICS VENTURE FDO INV IMOB",
+      "asset": "FII PROLOGIS",
+      "segment": "",
+      "code": "PBLV"
+    },
+    {
+      "company": "QUASAR AGRO - FDO INV. IMOB.",
+      "asset": "FII QUASAR A",
+      "segment": "",
+      "code": "QAGR"
+    },
+    {
+      "company": "QUASAR CRÉDITO IMOBILIÁRIO FDO. INV. IMOB.",
+      "asset": "FII QUASAR C",
+      "segment": "",
+      "code": "QAMI"
+    },
+    {
+      "company": "R CAP 1810 asset DE assetS - FDO. INV. IMOB.",
+      "asset": "FII RCAP FOF",
+      "segment": "",
+      "code": "XBXO"
+    },
+    {
+      "company": "RB CAPITAL DESENV RESID III FDO INV IMOB - FII",
+      "asset": "FII RBRESID3",
+      "segment": "",
+      "code": "RSPD"
+    },
+    {
+      "company": "RB CAPITAL DESENV. RESID. II FDO INV IMOB - FII",
+      "asset": "FII RBRESID2",
+      "segment": "",
+      "code": "RBDS"
+    },
+    {
+      "company": "RB CAPITAL DESENV. RESIDENCIAL IV FDO. INV. IMOB.",
+      "asset": "FII RBRES IV",
+      "segment": "",
+      "code": "RBIR"
+    },
+    {
+      "company": "RB CAPITAL LOGÍSTICO FDO. INV. IMOB.ye",
+      "asset": "FII RBCAP LG",
+      "segment": "",
+      "code": "RBLG"
+    },
+    {
+      "company": "RB CAPITAL RECEBÍVEIS IMOB. FDO. INVEST. IMOB FII",
+      "asset": "FII RBCAP RI",
+      "segment": "",
+      "code": "RRCI"
+    },
+    {
+      "company": "RB CAPITAL RENDA I FDO INV IMOB - FII",
+      "asset": "FII RB CAP I",
+      "segment": "MB",
+      "code": "FIIP"
+    },
+    {
+      "company": "RB CAPITAL RENDA II FDO INV IMOB - FII",
+      "asset": "FII RB II",
+      "segment": "",
+      "code": "RBRD"
+    },
+    {
+      "company": "RB CAPITAL TFO SITUS FDO INV IMOB - FII",
+      "asset": "FII RB TFO",
+      "segment": "",
+      "code": "RBTS"
+    },
+    {
+      "company": "RBR ALPHA MULTIESTRATÉGIA REAL ESTATE FDO INV IMOB",
+      "asset": "FII RBRALPHA",
+      "segment": "",
+      "code": "RBRF"
+    },
+    {
+      "company": "RBR CRI - asset DE INVESTIMENTO IMOBILIÁRIO",
+      "asset": "RBR CRI FII",
+      "segment": "",
+      "code": "CCRF"
+    },
+    {
+      "company": "RBR DESENV COMERCIAL FEEDER FOF FDO INVEST IMOB",
+      "asset": "FII RBR FEED",
+      "segment": "",
+      "code": "RCFF"
+    },
+    {
+      "company": "RBR LOG asset DE INVESTIMENTO IMOBILIÁRIO",
+      "asset": "FII RBR LOG",
+      "segment": "",
+      "code": "RBRL"
+    },
+    {
+      "company": "RBR PLUS MULTIESTRATÉGIA REAL ESTATE FII",
+      "asset": "FII RBR MULT",
+      "segment": "",
+      "code": "RBRX"
+    },
+    {
+      "company": "RBR PREMIUM RECEBÍVEIS IMOBILIÁRIOS FDO INV IMOB",
+      "asset": "FII RBR PR",
+      "segment": "",
+      "code": "RPRI"
+    },
+    {
+      "company": "REAG MULTI ATIVOS IMOBILIÁRIOS - FII",
+      "asset": "FII REAGMULT",
+      "segment": "",
+      "code": "RMAI"
+    },
+    {
+      "company": "REAL INVESTOR asset DE INVESTIMENTO IMOBILIÁRIO",
+      "asset": "FII REAL INV",
+      "segment": "",
+      "code": "RINV"
+    },
+    {
+      "company": "RESIDENCIAIS ONE asset DE INVESTIMENTO IMOBILIÁRIO",
+      "asset": "FII RESIDONE",
+      "segment": "",
+      "code": "REON"
+    },
+    {
+      "company": "RIO BRAVO CREDITO IMOB HIGH GRADE FUND DE INVEST",
+      "asset": "FII RBCRI IV",
+      "segment": "",
+      "code": "RBHG"
+    },
+    {
+      "company": "RIO BRAVO CRÉDITO IMOB. HIGH YIELD FDO. INV. IMOB.",
+      "asset": "FII RB YIELD",
+      "segment": "",
+      "code": "RBHY"
+    },
+    {
+      "company": "RIO BRAVO CRÉDITO IMOBILIÁRIO II FDO INV IMOB -FII",
+      "asset": "FII RIOBCRI2",
+      "segment": "",
+      "code": "RBVO"
+    },
+    {
+      "company": "RIO BRAVO asset DE assetS DE INVESTIMENTO IMOB",
+      "asset": "FII RIOB FF",
+      "segment": "",
+      "code": "RBFF"
+    },
+    {
+      "company": "RIO BRAVO OPORTUNIDADES IMOBILIÁRIAS FII",
+      "asset": "FII MERC BR",
+      "segment": "",
+      "code": "RBOP"
+    },
+    {
+      "company": "RIO BRAVO RENDA RESIDENCIAL FDO. INVEST. IMOB.",
+      "asset": "FII RIOB RR",
+      "segment": "",
+      "code": "RBRS"
+    },
+    {
+      "company": "RIZA AKIN FDO. INV. IMOB. FII",
+      "asset": "FII RIZA AKN",
+      "segment": "",
+      "code": "RZAK"
+    },
+    {
+      "company": "RIZA ARCTIUM REAL ESTATE FDO INV IMOB",
+      "asset": "FII ARCTIUM",
+      "segment": "",
+      "code": "ARCT"
+    },
+    {
+      "company": "RIZA DOMUS MULTIESTRATÉGIA FDO INV IMOB",
+      "asset": "FII RIZA DM",
+      "segment": "",
+      "code": "RZDM"
+    },
+    {
+      "company": "ROCK - FII asset DE INVESTIMENTO IMOBILIÁRIO",
+      "asset": "FII ROCK",
+      "segment": "",
+      "code": "RCKF"
+    },
+    {
+      "company": "SANTANDER PAPEIS IMOB CDI FDO INV IMOB",
+      "asset": "FII SANT PAP",
+      "segment": "",
+      "code": "SADI"
+    },
+    {
+      "company": "SANTANDER RENDA DE ALUGUÉIS FDO. INVEST. IMOB.",
+      "asset": "FII SANT REN",
+      "segment": "",
+      "code": "SARE"
+    },
+    {
+      "company": "SÃO CARLOS RENDA IMOBILIÁRIA FDO. INV. IMOB.",
+      "asset": "FII S CARLOS",
+      "segment": "",
+      "code": "SACL"
+    },
+    {
+      "company": "SAO DOMINGOS FDO INV IMOB - FII",
+      "asset": "FII DOMINGOS",
+      "segment": "",
+      "code": "FISD"
+    },
+    {
+      "company": "SEQUOIA III RENDA IMOBILIÁRIA - FDO. INV. IMOB.",
+      "asset": "FII SEQUOIA",
+      "segment": "",
+      "code": "SEQR"
+    },
+    {
+      "company": "SERRA VERDE asset DE INVESTIMENTO IMOBILIÁRIO",
+      "asset": "FII SERRA VD",
+      "segment": "",
+      "code": "SRVD"
+    },
+    {
+      "company": "SH SPECIAL OPPS asset DE INVESTIMENTO IMOBILIÁRIO",
+      "asset": "FII HEDGE SH",
+      "segment": "",
+      "code": "SHSO"
+    },
+    {
+      "company": "SHOPPING WEST PLAZA FDO INV IMOB",
+      "asset": "FII W PLAZA",
+      "segment": "",
+      "code": "WPLZ"
+    },
+    {
+      "company": "SIG CAPITAL RECEBÍVEIS PULVERIZADOS FDO INV IMOB",
+      "asset": "FII SIG CAP",
+      "segment": "",
+      "code": "SIGR"
+    },
+    {
+      "company": "SINGULARE FDO INV IMOB - FII",
+      "asset": "FII REIT RIV",
+      "segment": "",
+      "code": "REIT"
+    },
+    {
+      "company": "SJ AU LOGÍSTICA FDO. INV. IMOB.",
+      "asset": "FII SJ AU",
+      "segment": "",
+      "code": "SJAU"
+    },
+    {
+      "company": "SOLARIUM FII - FDO INV. IMOB.",
+      "asset": "FII SOLARIUM",
+      "segment": "",
+      "code": "SOLR"
+    },
+    {
+      "company": "SP DOWNTOWN FDO INV IMOB - FII",
+      "asset": "FII SP DOWNT",
+      "segment": "",
+      "code": "SPTW"
+    },
+    {
+      "company": "SPA FDO INV IMOB - FII",
+      "asset": "FII SPA",
+      "segment": "",
+      "code": "SPAF"
+    },
+    {
+      "company": "STARX FDO INV IMOB - FII",
+      "asset": "FII STARX",
+      "segment": "",
+      "code": "STRX"
+    },
+    {
+      "company": "SUNO asset DE assetS DE INVESTIMENTO IMOBILIÁRIO",
+      "asset": "FII SUNOFOFI",
+      "segment": "",
+      "code": "SNFF"
+    },
+    {
+      "company": "SUNO RECEBÍVEIS IMOBILIÁRIOS FDO DE INV IMOB",
+      "asset": "FII SUNO CRI",
+      "segment": "",
+      "code": "SNCI"
+    },
+    {
+      "company": "SUPREMO asset DE INVESTIMENTO IMOBILIÁRIO",
+      "asset": "FII SUPREMO",
+      "segment": "",
+      "code": "SPMO"
+    },
+    {
+      "company": "TELLUS asset DE assetS - FII FDO DE INV IMOB",
+      "asset": "FII TELF",
+      "segment": "",
+      "code": "TELF"
+    },
+    {
+      "company": "TELLUS MULTIESTRATÉGIA - FDO INV IMOB",
+      "asset": "FII TELM",
+      "segment": "",
+      "code": "TELM"
+    },
+    {
+      "company": "TELLUS PROPERTIES - FDO INV. IMOB",
+      "asset": "FII TEL PROP",
+      "segment": "",
+      "code": "TEPP"
+    },
+    {
+      "company": "TISHMAN SPEYER RENDA CORPORATIVA FDO. INV. IMOB.",
+      "asset": "FII TISHMAN",
+      "segment": "",
+      "code": "TSER"
+    },
+    {
+      "company": "TJK RENDA IMOBILIÁRIA FDO INV IMOB",
+      "asset": "FII TJK REND",
+      "segment": "",
+      "code": "TJKB"
+    },
+    {
+      "company": "TORDESILHAS EI FDO. INV. IMOB.",
+      "asset": "FII TORDE EI",
+      "segment": "",
+      "code": "TORD"
+    },
+    {
+      "company": "TRANSINC FDO INV IMOB - FII",
+      "asset": "FII TRANSINC",
+      "segment": "",
+      "code": "TSNC"
+    },
+    {
+      "company": "TREECORP REAL ESTATE FDO INV IMOB - I",
+      "asset": "FII TREECORP",
+      "segment": "",
+      "code": "TCPF"
+    },
+    {
+      "company": "TRX REAL ESTATE FDO. INV. IMOB. - FII",
+      "asset": "FII TRX REAL",
+      "segment": "",
+      "code": "TRXF"
+    },
+    {
+      "company": "TRX REAL ESTATE II FDO. INVEST. IMOB.",
+      "asset": "FII TRX R II",
+      "segment": "",
+      "code": "TRXB"
+    },
+    {
+      "company": "URCA PRIME RENDA asset DE INVESTIMENTO IMOBILIÁRIO",
+      "asset": "FII URCA REN",
+      "segment": "",
+      "code": "URPR"
+    },
+    {
+      "company": "V2 EDIFICIOS CORPORATIVOS FDO INV IMOB - FII",
+      "asset": "FII V2EDCORP",
+      "segment": "",
+      "code": "VVCO"
+    },
+    {
+      "company": "VALORA CRI CDI asset DE INVESTIMENTO IMOBILIÁRIO",
+      "asset": "FII VALREIII",
+      "segment": "",
+      "code": "VGIR"
+    },
+    {
+      "company": "VALORA CRI ÍNDICE DE PREÇO FDO INVEST. IMOB. FII",
+      "asset": "FII VALORAIP",
+      "segment": "",
+      "code": "VGIP"
+    },
+    {
+      "company": "VALORA HEDGE FUND FDO. INV. IMOB.",
+      "asset": "FII VALOR HE",
+      "segment": "",
+      "code": "VGHF"
+    },
+    {
+      "company": "VBI CONSUMO ESSEN FDO. INVEST. IMOB.",
+      "asset": "FII VBI CON",
+      "segment": "",
+      "code": "EVBI"
+    },
+    {
+      "company": "VBI REITS FOF - FDO. INV. IMOB",
+      "asset": "FII VBI REIT",
+      "segment": "",
+      "code": "RVBI"
+    },
+    {
+      "company": "VECTIS JUROS REAL FDO INV. IMOB. - FII",
+      "asset": "FII VECTIS",
+      "segment": "",
+      "code": "VCJR"
+    },
+    {
+      "company": "VECTIS RENDA RESIDENCIAL FDO. INV. IMOB.",
+      "asset": "FII VECT REN",
+      "segment": "",
+      "code": "VCRR"
+    },
+    {
+      "company": "VECTOR QUELUZ ATIVOS IMOB FDO INV IMOB",
+      "asset": "FII VQ LAJES",
+      "segment": "",
+      "code": "VLJS"
+    },
+    {
+      "company": "VENUS - asset DE INVESTIMENTO IMOBILIÁRIO",
+      "asset": "FII VENUS",
+      "segment": "",
+      "code": "SALI"
+    },
+    {
+      "company": "VERSALHES RECEBÍVEIS IMOBILIÁRIOS - FDO. INV. IMOB",
+      "asset": "FII VERS CRI",
+      "segment": "",
+      "code": "VSLH"
+    },
+    {
+      "company": "VIC DESENVOLVIMENTO VINTAGE 20/21 FUND INVEST IMOB",
+      "asset": "FII VIC DES",
+      "segment": "",
+      "code": "VIDS"
+    },
+    {
+      "company": "VIC DESENVOLVIMENTO VINTAGE 22/23 FDO DE INV IMOB",
+      "asset": "FII VIC VIN",
+      "segment": "",
+      "code": "VDSV"
+    },
+    {
+      "company": "VINCI CREDIT SECURITIES asset DE INVESTIMENTO IMOB",
+      "asset": "FII VINCI CR",
+      "segment": "",
+      "code": "VCRI"
+    },
+    {
+      "company": "VINCI IMÓVEIS URBANOS FDO. DE INV. IMOB.",
+      "asset": "FII VINCI IU",
+      "segment": "",
+      "code": "VIUR"
+    },
+    {
+      "company": "VINCI INSTRUMENTOS FINANCEIROS FDO INV IMOB - FII",
+      "asset": "FII VINCI IF",
+      "segment": "",
+      "code": "VIFI"
+    },
+    {
+      "company": "VINCI LOGÍSTICA FDO INV IMOB - FII",
+      "asset": "FII VINCI LG",
+      "segment": "",
+      "code": "VILG"
+    },
+    {
+      "company": "VINCI OFFICES FDO INV IMOB",
+      "asset": "FII VINCI OF",
+      "segment": "",
+      "code": "VINO"
+    },
+    {
+      "company": "VINCI SHOPPING CENTERS FDO INVEST IMOB - FII",
+      "asset": "FII VINCI SC",
+      "segment": "",
+      "code": "VISC"
+    },
+    {
+      "company": "VINCI VIFI 2 asset DE INVESTIMENTO IMOBILIÁRIO FII",
+      "asset": "FII VIFI 2",
+      "segment": "",
+      "code": "VLIQ"
+    },
+    {
+      "company": "VOTORANTIM SECURITIES MASTER FDO INV IMOB - FII",
+      "asset": "FII V MASTER",
+      "segment": "",
+      "code": "VOTS"
+    },
+    {
+      "company": "VX XVI - FDO INV. IMOB.",
+      "asset": "FII VX XVI",
+      "segment": "",
+      "code": "VXXV"
+    },
+    {
+      "company": "WARREN SECURITIES FDO DE INV IMOB - FII",
+      "asset": "FII WARREN",
+      "segment": "",
+      "code": "WSEC"
+    },
+    {
+      "company": "WHG FINVEST SP REALTY FDO DE INV IMOB - FII",
+      "asset": "FII WHG F SP",
+      "segment": "",
+      "code": "SPDE"
+    },
+    {
+      "company": "WHG REAL ESTATE asset DE INVESTIMENTO IMOBILIÁRIO",
+      "asset": "FII WHG REAL",
+      "segment": "",
+      "code": "WHGR"
+    },
+    {
+      "company": "XP CORPORATE MACAÉ FDO INV IMOB - FII",
+      "asset": "FII XP MACAE",
+      "segment": "",
+      "code": "XPCM"
+    },
+    {
+      "company": "XP CREDITO IMOBILIÁRIO - FDO INV IMOB",
+      "asset": "FII XP CRED",
+      "segment": "",
+      "code": "XPCI"
+    },
+    {
+      "company": "XP HOTÉIS - FDO INV IMOB - FII",
+      "asset": "FII XP HOT",
+      "segment": "",
+      "code": "XPHT"
+    },
+    {
+      "company": "XP INDUSTRIAL FDO INV IMOB - FII",
+      "asset": "FII XP INDL",
+      "segment": "",
+      "code": "XPIN"
+    },
+    {
+      "company": "XP LOG FDO INV IMOB - FII",
+      "asset": "FII XP LOG",
+      "segment": "",
+      "code": "XPLG"
+    },
+    {
+      "company": "XP MALLS FDO INV IMOB FII",
+      "asset": "FII XP MALLS",
+      "segment": "",
+      "code": "XPML"
+    },
+    {
+      "company": "XP PROPERTIES FDO. INV. IMOB.",
+      "asset": "FII XP PROP",
+      "segment": "",
+      "code": "XPPR"
+    },
+    {
+      "company": "XP SELECTION FDO DE assetS INV IMOB - FII",
+      "asset": "FII XP SELEC",
+      "segment": "",
+      "code": "XPSF"
+    },
+    {
+      "company": "YUCA FDO INV. IMOB.",
+      "asset": "FII YUCA",
+      "segment": "",
+      "code": "YUFI"
+    },
+    {
+      "company": "ZAVIT REAL ESTATE FUND - FDO INV IMOB",
+      "asset": "FII ZAVIT R",
+      "segment": "",
+      "code": "ZAVI"
+    },
+    {
+      "company": "ZION CAPITAL asset DE INVESTIMENTO IMOBILIÁRIO FII",
+      "asset": "FII ZION",
+      "segment": "",
+      "code": "ZIFI"
+    }
+  ]

@@ -1,0 +1,2978 @@
+[
+    {
+      "code": "VALE3",
+      "sector": "Materiais Básicos",
+      "subSector": "Mineração",
+      "segment": "Minerais Metálicos"
+    },
+    {
+      "code": "PETR4",
+      "sector": "Petróleo, Gás e Biocombustíveis",
+      "subSector": "Petróleo, Gás e Biocombustíveis",
+      "segment": "Exploração, Refino e Distribuição"
+    },
+    {
+      "code": "ITUB4",
+      "sector": "Financeiro",
+      "subSector": "Intermediários Financeiros",
+      "segment": "Bancos"
+    },
+    {
+      "code": "BBDC4",
+      "sector": "Financeiro",
+      "subSector": "Intermediários Financeiros",
+      "segment": "Bancos"
+    },
+    {
+      "code": "B3SA3",
+      "sector": "Financeiro",
+      "subSector": "Serviços Financeiros Diversos",
+      "segment": "Serviços Financeiros Diversos"
+    },
+    {
+      "code": "MGLU3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Comércio",
+      "segment": "Eletrodomésticos"
+    },
+    {
+      "code": "PETR3",
+      "sector": "Petróleo, Gás e Biocombustíveis",
+      "subSector": "Petróleo, Gás e Biocombustíveis",
+      "segment": "Exploração, Refino e Distribuição"
+    },
+    {
+      "code": "SUZB3",
+      "sector": "Materiais Básicos",
+      "subSector": "Madeira e Papel",
+      "segment": "Papel e Celulose"
+    },
+    {
+      "code": "CSNA3",
+      "sector": "Materiais Básicos",
+      "subSector": "Siderurgia e Metalurgia",
+      "segment": "Siderurgia"
+    },
+    {
+      "code": "JBSS3",
+      "sector": "Consumo não Cíclico",
+      "subSector": "Alimentos Processados",
+      "segment": "Carnes e Derivados"
+    },
+    {
+      "code": "USIM5",
+      "sector": "Materiais Básicos",
+      "subSector": "Siderurgia e Metalurgia",
+      "segment": "Siderurgia"
+    },
+    {
+      "code": "GGBR4",
+      "sector": "Materiais Básicos",
+      "subSector": "Siderurgia e Metalurgia",
+      "segment": "Siderurgia"
+    },
+    {
+      "code": "BBAS3",
+      "sector": "Financeiro",
+      "subSector": "Intermediários Financeiros",
+      "segment": "Intermediários Financeiros"
+    },
+    {
+      "code": "RENT3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Diversos",
+      "segment": "Diversos"
+    },
+    {
+      "code": "RDOR3",
+      "sector": "Saúde",
+      "subSector": "Serviços Médicos",
+      "segment": "Serviços Médicos"
+    },
+    {
+      "code": "ITSA4",
+      "sector": "Financeiro",
+      "subSector": "Intermediários Financeiros",
+      "segment": "Intermediários Financeiros"
+    },
+    {
+      "code": "VIIA3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Comércio",
+      "segment": "Comércio"
+    },
+    {
+      "code": "BPAC11",
+      "sector": "Financeiro",
+      "subSector": "Intermediários Financeiros",
+      "segment": "Intermediários Financeiros"
+    },
+    {
+      "code": "ABEV3",
+      "sector": "Consumo não Cíclico",
+      "subSector": "Bebidas",
+      "segment": "Bebidas"
+    },
+    {
+      "code": "PRIO3",
+      "sector": "Petróleo, Gás e Biocombustíveis",
+      "subSector": "Petróleo, Gás e Biocombustíveis",
+      "segment": "Petróleo, Gás e Biocombustíveis"
+    },
+    {
+      "code": "WEGE3",
+      "sector": "Bens Industriais",
+      "subSector": "Máquinas e Equipamentos",
+      "segment": "Máquinas e Equipamentos"
+    },
+    {
+      "code": "CASH3",
+      "sector": "Tecnologia da Informação",
+      "subSector": "Programas e Serviços",
+      "segment": "Programas e Serviços"
+    },
+    {
+      "code": "LREN3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Comércio",
+      "segment": "Comércio"
+    },
+    {
+      "code": "BRDT3",
+      "sector": "Petróleo, Gás e Biocombustíveis",
+      "subSector": "Petróleo, Gás e Biocombustíveis",
+      "segment": "Petróleo, Gás e Biocombustíveis"
+    },
+    {
+      "code": "BIDI11",
+      "sector": "Financeiro",
+      "subSector": "Intermediários Financeiros",
+      "segment": "Intermediários Financeiros"
+    },
+    {
+      "code": "NTCO3",
+      "sector": "Consumo não Cíclico",
+      "subSector": "Produtos de Uso Pessoal e de Limpeza",
+      "segment": "Produtos de Uso Pessoal e de Limpeza"
+    },
+    {
+      "code": "GNDI3",
+      "sector": "Saúde",
+      "subSector": "Análises e Diagnósticos",
+      "segment": "Análises e Diagnósticos"
+    },
+    {
+      "code": "EMBR3",
+      "sector": "Bens Industriais",
+      "subSector": "Material de Transporte",
+      "segment": "Material de Transporte"
+    },
+    {
+      "code": "AMER3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Comércio",
+      "segment": "Comércio"
+    },
+    {
+      "code": "CSAN3",
+      "sector": "Petróleo, Gás e Biocombustíveis",
+      "subSector": "Petróleo, Gás e Biocombustíveis",
+      "segment": "Petróleo, Gás e Biocombustíveis"
+    },
+    {
+      "code": "BRKM5",
+      "sector": "Materiais Básicos",
+      "subSector": "Químicos",
+      "segment": "Químicos"
+    },
+    {
+      "code": "ASAI3",
+      "sector": "Consumo não Cíclico",
+      "subSector": "Comércio e Distribuição",
+      "segment": "Comércio e Distribuição"
+    },
+    {
+      "code": "HAPV3",
+      "sector": "Saúde",
+      "subSector": "Análises e Diagnósticos",
+      "segment": "Análises e Diagnósticos"
+    },
+    {
+      "code": "RAIL3",
+      "sector": "Bens Industriais",
+      "subSector": "Transporte",
+      "segment": "Transporte"
+    },
+    {
+      "code": "EQTL3",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "BRAP4",
+      "sector": "Materiais Básicos",
+      "subSector": "Mineração",
+      "segment": "Mineração"
+    },
+    {
+      "code": "KLBN11",
+      "sector": "Materiais Básicos",
+      "subSector": "Madeira e Papel",
+      "segment": "Papel e Celulose"
+    },
+    {
+      "code": "CVCB3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Viagens e Lazer",
+      "segment": "Viagens e Turismo"
+    },
+    {
+      "code": "MRFG3",
+      "sector": "Consumo não Cíclico",
+      "subSector": "Alimentos Processados",
+      "segment": "Carnes e Derivados"
+    },
+    {
+      "code": "ELET3",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "AZUL4",
+      "sector": "Bens Industriais",
+      "subSector": "Transporte",
+      "segment": "Transporte Aéreo"
+    },
+    {
+      "code": "TOTS3",
+      "sector": "Tecnologia da Informação",
+      "subSector": "Programas e Serviços",
+      "segment": "Programas e Serviços"
+    },
+    {
+      "code": "CYRE3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Construção Civil",
+      "segment": "Incorporações"
+    },
+    {
+      "code": "LAME4",
+      "sector": "Consumo Cíclico",
+      "subSector": "Comércio",
+      "segment": "Produtos Diversos"
+    },
+    {
+      "code": "PETZ3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Comércio",
+      "segment": "Produtos Diversos"
+    },
+    {
+      "code": "CCRO3",
+      "sector": "Bens Industriais",
+      "subSector": "Transporte",
+      "segment": "Exploração de Rodovias"
+    },
+    {
+      "code": "LWSA3",
+      "sector": "Tecnologia da Informação",
+      "subSector": "Programas e Serviços",
+      "segment": "Programas e Serviços"
+    },
+    {
+      "code": "UGPA3",
+      "sector": "Petróleo, Gás e Biocombustíveis",
+      "subSector": "Petróleo, Gás e Biocombustíveis",
+      "segment": "Exploração, Refino e Distribuição"
+    },
+    {
+      "code": "ALPA4",
+      "sector": "Consumo Cíclico",
+      "subSector": "Tecidos, Vestuário e Calçados",
+      "segment": "Calçados"
+    },
+    {
+      "code": "RADL3",
+      "sector": "Saúde",
+      "subSector": "Comércio e Distribuição",
+      "segment": "Medicamentos e Outros Produtos"
+    },
+    {
+      "code": "MULT3",
+      "sector": "Financeiro",
+      "subSector": "Exploração de Imóveis",
+      "segment": "Exploração de Imóveis"
+    },
+    {
+      "code": "BBSE3",
+      "sector": "Financeiro",
+      "subSector": "Previdência e Seguros",
+      "segment": "Seguradoras"
+    },
+    {
+      "code": "COGN3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Diversos",
+      "segment": "Serviços Educacionais"
+    },
+    {
+      "code": "BRFS3",
+      "sector": "Consumo não Cíclico",
+      "subSector": "Alimentos Processados",
+      "segment": "Carnes e Derivados"
+    },
+    {
+      "code": "BRML3",
+      "sector": "Financeiro",
+      "subSector": "Exploração de Imóveis",
+      "segment": "Exploração de Imóveis"
+    },
+    {
+      "code": "GOAU4",
+      "sector": "Materiais Básicos",
+      "subSector": "Siderurgia e Metalurgia",
+      "segment": "Siderurgia"
+    },
+    {
+      "code": "BBDC3",
+      "sector": "Financeiro",
+      "subSector": "Intermediários Financeiros",
+      "segment": "Bancos"
+    },
+    {
+      "code": "CMIG4",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "GOLL4",
+      "sector": "Bens Industriais",
+      "subSector": "Transporte",
+      "segment": "Transporte Aéreo"
+    },
+    {
+      "code": "SBSP3",
+      "sector": "Utilidade Pública",
+      "subSector": "Água e Saneamento",
+      "segment": "Água e Saneamento"
+    },
+    {
+      "code": "BIDI4",
+      "sector": "Financeiro",
+      "subSector": "Intermediários Financeiros",
+      "segment": "Bancos"
+    },
+    {
+      "code": "BPAN4",
+      "sector": "Financeiro",
+      "subSector": "Intermediários Financeiros",
+      "segment": "Bancos"
+    },
+    {
+      "code": "VIVT3",
+      "sector": "Comunicações",
+      "subSector": "Telecomunicações",
+      "segment": "Telecomunicações"
+    },
+    {
+      "code": "HYPE3",
+      "sector": "Saúde",
+      "subSector": "Comércio e Distribuição",
+      "segment": "Medicamentos e Outros Produtos"
+    },
+    {
+      "code": "SULA11",
+      "sector": "Financeiro",
+      "subSector": "Previdência e Seguros",
+      "segment": "Seguradoras"
+    },
+    {
+      "code": "CPLE6",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "AMBP3",
+      "sector": "Bens Industriais",
+      "subSector": "Serviços Diversos",
+      "segment": "Serviços Diversos"
+    },
+    {
+      "code": "SANB11",
+      "sector": "Financeiro",
+      "subSector": "Intermediários Financeiros",
+      "segment": "Bancos"
+    },
+    {
+      "code": "POSI3",
+      "sector": "Tecnologia da Informação",
+      "subSector": "Computadores e Equipamentos",
+      "segment": "Computadores e Equipamentos"
+    },
+    {
+      "code": "TAEE11",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "ENEV3",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "PSSA3",
+      "sector": "Financeiro",
+      "subSector": "Previdência e Seguros",
+      "segment": "Seguradoras"
+    },
+    {
+      "code": "LCAM3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Diversos",
+      "segment": "Aluguel de carros"
+    },
+    {
+      "code": "CIEL3",
+      "sector": "Financeiro",
+      "subSector": "Serviços Financeiros Diversos",
+      "segment": "Serviços Financeiros Diversos"
+    },
+    {
+      "code": "QUAL3",
+      "sector": "Saúde",
+      "subSector": "Análises e Diagnósticos",
+      "segment": "Análises e Diagnósticos"
+    },
+    {
+      "code": "IRBR3",
+      "sector": "Financeiro",
+      "subSector": "Previdência e Seguros",
+      "segment": "Seguradoras"
+    },
+    {
+      "code": "RAIZ4",
+      "sector": "Petróleo, Gás e Biocombustíveis",
+      "subSector": "Petróleo, Gás e Biocombustíveis",
+      "segment": "Exploração, Refino e Distribuição"
+    },
+    {
+      "code": "CRFB3",
+      "sector": "Consumo não Cíclico",
+      "subSector": "Comércio e Distribuição",
+      "segment": "Alimentos"
+    },
+    {
+      "code": "BEEF3",
+      "sector": "Consumo não Cíclico",
+      "subSector": "Alimentos Processados",
+      "segment": "Carnes e Derivados"
+    },
+    {
+      "code": "FHER3",
+      "sector": "Materiais Básicos",
+      "subSector": "Químicos",
+      "segment": "Fertilizantes e Defensivos"
+    },
+    {
+      "code": "MRVE3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Construção Civil",
+      "segment": "Incorporações"
+    },
+    {
+      "code": "ELET6",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "YDUQ3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Diversos",
+      "segment": "Serviços Educacionais"
+    },
+    {
+      "code": "OIBR3",
+      "sector": "Comunicações",
+      "subSector": "Telecomunicações",
+      "segment": "Telecomunicações"
+    },
+    {
+      "code": "SOMA3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Comércio",
+      "segment": "Tecidos, Vestuário e Calçados"
+    },
+    {
+      "code": "TIMS3",
+      "sector": "Comunicações",
+      "subSector": "Telecomunicações",
+      "segment": "Telecomunicações"
+    },
+    {
+      "code": "ENGI11",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "IGTA3",
+      "sector": "Financeiro",
+      "subSector": "Exploração de Imóveis",
+      "segment": "Exploração de Imóveis"
+    },
+    {
+      "code": "VIVR3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Construção Civil",
+      "segment": "Incorporações"
+    },
+    {
+      "code": "CPFE3",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "INTB3",
+      "sector": "Tecnologia da Informação",
+      "subSector": "Computadores e Equipamentos",
+      "segment": "Computadores e Equipamentos"
+    },
+    {
+      "code": "PCAR3",
+      "sector": "Consumo não Cíclico",
+      "subSector": "Comércio e Distribuição",
+      "segment": "Alimentos"
+    },
+    {
+      "code": "CMIN3",
+      "sector": "Materiais Básicos",
+      "subSector": "Mineração",
+      "segment": "Minerais Metálicos"
+    },
+    {
+      "code": "DXCO3",
+      "sector": "Materiais Básicos",
+      "subSector": "Madeira e Papel",
+      "segment": "Madeira"
+    },
+    {
+      "code": "WIZS3",
+      "sector": "Financeiro",
+      "subSector": "Previdência e Seguros",
+      "segment": "Corretoras de Seguros"
+    },
+    {
+      "code": "ECOR3",
+      "sector": "Bens Industriais",
+      "subSector": "Transporte",
+      "segment": "Exploração de Rodovias"
+    },
+    {
+      "code": "SLCE3",
+      "sector": "Consumo não Cíclico",
+      "subSector": "Agropecuária",
+      "segment": "Agricultura"
+    },
+    {
+      "code": "EGIE3",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "ARZZ3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Comércio",
+      "segment": "Tecidos, Vestuário e Calçados"
+    },
+    {
+      "code": "EZTC3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Construção Civil",
+      "segment": "Incorporações"
+    },
+    {
+      "code": "RRRP3",
+      "sector": "Petróleo, Gás e Biocombustíveis",
+      "subSector": "Petróleo, Gás e Biocombustíveis",
+      "segment": "Exploração, Refino e Distribuição"
+    },
+    {
+      "code": "CESP6",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "MOVI3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Diversos",
+      "segment": "Aluguel de carros"
+    },
+    {
+      "code": "ENBR3",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "VAMO3",
+      "sector": "Bens Industriais",
+      "subSector": "Máquinas e Equipamentos",
+      "segment": "Máq. e Equip. Construção e Agrícolas"
+    },
+    {
+      "code": "ITUB3",
+      "sector": "Financeiro",
+      "subSector": "Intermediários Financeiros",
+      "segment": "Bancos"
+    },
+    {
+      "code": "FLRY3",
+      "sector": "Saúde",
+      "subSector": "Análises e Diagnósticos",
+      "segment": "Análises e Diagnósticos"
+    },
+    {
+      "code": "SIMH3",
+      "sector": "Financeiro",
+      "subSector": "Holdings Diversificadas",
+      "segment": "Holdings Diversificadas"
+    },
+    {
+      "code": "RAPT4",
+      "sector": "Bens Industriais",
+      "subSector": "Material de Transporte",
+      "segment": "Material Rodoviário"
+    },
+    {
+      "code": "TRPL4",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "ETER3",
+      "sector": "Bens Industriais",
+      "subSector": "Construção e Engenharia",
+      "segment": "Produtos para Construção"
+    },
+    {
+      "code": "NEOE3",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "VIVA3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Tecidos, Vestuário e Calçados",
+      "segment": "Acessórios"
+    },
+    {
+      "code": "SAPR11",
+      "sector": "Utilidade Pública",
+      "subSector": "Água e Saneamento",
+      "segment": "Água e Saneamento"
+    },
+    {
+      "code": "LJQQ3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Comércio",
+      "segment": "Produtos Diversos"
+    },
+    {
+      "code": "SMTO3",
+      "sector": "Consumo não Cíclico",
+      "subSector": "Alimentos Processados",
+      "segment": "Açucar e Alcool"
+    },
+    {
+      "code": "AMAR3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Comércio",
+      "segment": "Tecidos, Vestuário e Calçados"
+    },
+    {
+      "code": "SMFT3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Viagens e Lazer",
+      "segment": "Atividades Esportivas"
+    },
+    {
+      "code": "FESA4",
+      "sector": "Materiais Básicos",
+      "subSector": "Siderurgia e Metalurgia",
+      "segment": "Siderurgia"
+    },
+    {
+      "code": "GMAT3",
+      "sector": "Consumo não Cíclico",
+      "subSector": "Comércio e Distribuição",
+      "segment": "Alimentos"
+    },
+    {
+      "code": "TASA4",
+      "sector": "Bens Industriais",
+      "subSector": "Máquinas e Equipamentos",
+      "segment": "Armas e Munições"
+    },
+    {
+      "code": "STBP3",
+      "sector": "Bens Industriais",
+      "subSector": "Transporte",
+      "segment": "Serviços de Apoio e Armazenagem"
+    },
+    {
+      "code": "LIGT3",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "PTBL3",
+      "sector": "Bens Industriais",
+      "subSector": "Construção e Engenharia",
+      "segment": "Produtos para Construção"
+    },
+    {
+      "code": "OMGE3",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "MDIA3",
+      "sector": "Consumo não Cíclico",
+      "subSector": "Alimentos Processados",
+      "segment": "Alimentos Diversos"
+    },
+    {
+      "code": "ONCO3",
+      "sector": "Saúde",
+      "subSector": "Serviços Médicos",
+      "segment": "Serviços Médicos"
+    },
+    {
+      "code": "ANIM3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Diversos",
+      "segment": "Serviços Educacionais"
+    },
+    {
+      "code": "GRND3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Tecidos, Vestuário e Calçados",
+      "segment": "Calçados"
+    },
+    {
+      "code": "SEQL3",
+      "sector": "Bens Industriais",
+      "subSector": "Transporte",
+      "segment": "Logística"
+    },
+    {
+      "code": "ALSO3",
+      "sector": "Financeiro",
+      "subSector": "Exploração de Imóveis",
+      "segment": "Exploração de Imóveis"
+    },
+    {
+      "code": "ESPA3",
+      "sector": "Consumo não Cíclico",
+      "subSector": "Produtos de Uso Pessoal e de Limpeza",
+      "segment": "Produtos de Uso Pessoal"
+    },
+    {
+      "code": "TEND3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Construção Civil",
+      "segment": "Incorporações"
+    },
+    {
+      "code": "JHSF3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Construção Civil",
+      "segment": "Incorporações"
+    },
+    {
+      "code": "LAME3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Comércio",
+      "segment": "Produtos Diversos"
+    },
+    {
+      "code": "CSMG3",
+      "sector": "Utilidade Pública",
+      "subSector": "Água e Saneamento",
+      "segment": "Água e Saneamento"
+    },
+    {
+      "code": "SBFG3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Comércio",
+      "segment": "Produtos Diversos"
+    },
+    {
+      "code": "ENAT3",
+      "sector": "Petróleo, Gás e Biocombustíveis",
+      "subSector": "Petróleo, Gás e Biocombustíveis",
+      "segment": "Exploração, Refino e Distribuição"
+    },
+    {
+      "code": "LEVE3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Automóveis e Motocicletas",
+      "segment": "Automóveis e Motocicletas"
+    },
+    {
+      "code": "SQIA3",
+      "sector": "Tecnologia da Informação",
+      "subSector": "Programas e Serviços",
+      "segment": "Programas e Serviços"
+    },
+    {
+      "code": "AERI3",
+      "sector": "Bens Industriais",
+      "subSector": "Máquinas e Equipamentos",
+      "segment": "Máq. e Equip. Industriais"
+    },
+    {
+      "code": "UNIP6",
+      "sector": "Materiais Básicos",
+      "subSector": "Químicos",
+      "segment": "Químicos Diversos"
+    },
+    {
+      "code": "BRPR3",
+      "sector": "Financeiro",
+      "subSector": "Exploração de Imóveis",
+      "segment": "Exploração de Imóveis"
+    },
+    {
+      "code": "CEAB3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Comércio",
+      "segment": "Tecidos, Vestuário e Calçados"
+    },
+    {
+      "code": "CXSE3",
+      "sector": "Financeiro",
+      "subSector": "Previdência e Seguros",
+      "segment": "Corretoras de Seguros"
+    },
+    {
+      "code": "RCSL3",
+      "sector": "Bens Industriais",
+      "subSector": "Material de Transporte",
+      "segment": "Material Rodoviário"
+    },
+    {
+      "code": "MYPK3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Automóveis e Motocicletas",
+      "segment": "Automóveis e Motocicletas"
+    },
+    {
+      "code": "TUPY3",
+      "sector": "Bens Industriais",
+      "subSector": "Material de Transporte",
+      "segment": "Material Rodoviário"
+    },
+    {
+      "code": "CBAV3",
+      "sector": "Materiais Básicos",
+      "subSector": "Mineração",
+      "segment": "Minerais Metálicos"
+    },
+    {
+      "code": "GGPS3",
+      "sector": "Bens Industriais",
+      "subSector": "Transporte",
+      "segment": "Logística"
+    },
+    {
+      "code": "BKBR3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Hoteis e Restaurantes",
+      "segment": "Restaurante e Similares"
+    },
+    {
+      "code": "BMOB3",
+      "sector": "Tecnologia da Informação",
+      "subSector": "Programas e Serviços",
+      "segment": "Programas e Serviços"
+    },
+    {
+      "code": "DIRR3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Construção Civil",
+      "segment": "Incorporações"
+    },
+    {
+      "code": "ALUP11",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "BRSR6",
+      "sector": "Financeiro",
+      "subSector": "Intermediários Financeiros",
+      "segment": "Bancos"
+    },
+    {
+      "code": "MLAS3",
+      "sector": "Tecnologia da Informação",
+      "subSector": "Computadores e Equipamentos",
+      "segment": "Computadores e Equipamentos"
+    },
+    {
+      "code": "HBSA3",
+      "sector": "Bens Industriais",
+      "subSector": "Transporte",
+      "segment": "Transporte Hidroviário"
+    },
+    {
+      "code": "BIDI3",
+      "sector": "Financeiro",
+      "subSector": "Intermediários Financeiros",
+      "segment": "Bancos"
+    },
+    {
+      "code": "AESB3",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "MOSI3",
+      "sector": "Tecnologia da Informação",
+      "subSector": "Programas e Serviços",
+      "segment": "Programas e Serviços"
+    },
+    {
+      "code": "CLSA3",
+      "sector": "Tecnologia da Informação",
+      "subSector": "Programas e Serviços",
+      "segment": "Programas e Serviços"
+    },
+    {
+      "code": "TRAD3",
+      "sector": "Tecnologia da Informação",
+      "subSector": "Programas e Serviços",
+      "segment": "Programas e Serviços"
+    },
+    {
+      "code": "AALR3",
+      "sector": "Saúde",
+      "subSector": "Análises e Diagnósticos",
+      "segment": "Análises e Diagnósticos"
+    },
+    {
+      "code": "GFSA3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Construção Civil",
+      "segment": "Incorporações"
+    },
+    {
+      "code": "IFCM3",
+      "sector": "Tecnologia da Informação",
+      "subSector": "Programas e Serviços",
+      "segment": "Programas e Serviços"
+    },
+    {
+      "code": "AGRO3",
+      "sector": "Consumo não Cíclico",
+      "subSector": "Agropecuária",
+      "segment": "Agricultura"
+    },
+    {
+      "code": "SAPR4",
+      "sector": "Utilidade Pública",
+      "subSector": "Água e Saneamento",
+      "segment": "Água e Saneamento"
+    },
+    {
+      "code": "BRBI11",
+      "sector": "Financeiro",
+      "subSector": "Intermediários Financeiros",
+      "segment": "Bancos"
+    },
+    {
+      "code": "ORVR3",
+      "sector": "Utilidade Pública",
+      "subSector": "Água e Saneamento",
+      "segment": "Água e Saneamento"
+    },
+    {
+      "code": "LOGN3",
+      "sector": "Bens Industriais",
+      "subSector": "Transporte",
+      "segment": "Transporte Hidroviário"
+    },
+    {
+      "code": "ABCB4",
+      "sector": "Financeiro",
+      "subSector": "Intermediários Financeiros",
+      "segment": "Bancos"
+    },
+    {
+      "code": "EVEN3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Construção Civil",
+      "segment": "Incorporações"
+    },
+    {
+      "code": "PGMN3",
+      "sector": "Saúde",
+      "subSector": "Comércio e Distribuição",
+      "segment": "Medicamentos e Outros Produtos"
+    },
+    {
+      "code": "CPLE3",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "CPLE11",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "PNVL3",
+      "sector": "Saúde",
+      "subSector": "Comércio e Distribuição",
+      "segment": "Medicamentos e Outros Produtos"
+    },
+    {
+      "code": "ARML3",
+      "sector": "Bens Industriais",
+      "subSector": "Máquinas e Equipamentos",
+      "segment": "Máq. e Equip. Industriais"
+    },
+    {
+      "code": "TRIS3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Construção Civil",
+      "segment": "Incorporações"
+    },
+    {
+      "code": "ENJU3",
+      "sector": "Tecnologia da Informação",
+      "subSector": "Programas e Serviços",
+      "segment": "Programas e Serviços"
+    },
+    {
+      "code": "ODPV3",
+      "sector": "Saúde",
+      "subSector": "Análises e Diagnósticos",
+      "segment": "Análises e Diagnósticos"
+    },
+    {
+      "code": "BLAU3",
+      "sector": "Saúde",
+      "subSector": "Medicamentos e Outros Produtos",
+      "segment": "Medicamentos e Outros Produtos"
+    },
+    {
+      "code": "CAML3",
+      "sector": "Consumo não Cíclico",
+      "subSector": "Alimentos Processados",
+      "segment": "Alimentos Diversos"
+    },
+    {
+      "code": "LOGG3",
+      "sector": "Financeiro",
+      "subSector": "Exploração de Imóveis",
+      "segment": "Exploração de Imóveis"
+    },
+    {
+      "code": "BOAS3",
+      "sector": "Financeiro",
+      "subSector": "Serviços Financeiros Diversos",
+      "segment": "Serviços Financeiros Diversos"
+    },
+    {
+      "code": "ROMI3",
+      "sector": "Bens Industriais",
+      "subSector": "Máquinas e Equipamentos",
+      "segment": "Máq. e Equip. Industriais"
+    },
+    {
+      "code": "MEAL3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Hoteis e Restaurantes",
+      "segment": "Restaurante e Similares"
+    },
+    {
+      "code": "POMO4",
+      "sector": "Bens Industriais",
+      "subSector": "Material de Transporte",
+      "segment": "Material Rodoviário"
+    },
+    {
+      "code": "ALLD3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Comércio",
+      "segment": "Eletrodomésticos"
+    },
+    {
+      "code": "TECN3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Tecidos, Vestuário e Calçados",
+      "segment": "Acessórios"
+    },
+    {
+      "code": "RANI3",
+      "sector": "Materiais Básicos",
+      "subSector": "Madeira e Papel",
+      "segment": "Papel e Celulose"
+    },
+    {
+      "code": "TTEN3",
+      "sector": "Consumo não Cíclico",
+      "subSector": "Agropecuária",
+      "segment": "Agricultura"
+    },
+    {
+      "code": "LUPA3",
+      "sector": "Petróleo, Gás e Biocombustíveis",
+      "subSector": "Petróleo, Gás e Biocombustíveis",
+      "segment": "Equipamentos e Serviços"
+    },
+    {
+      "code": "RECV3",
+      "sector": "Petróleo, Gás e Biocombustíveis",
+      "subSector": "Petróleo, Gás e Biocombustíveis",
+      "segment": "Exploração, Refino e Distribuição"
+    },
+    {
+      "code": "PARD3",
+      "sector": "Saúde",
+      "subSector": "Análises e Diagnósticos",
+      "segment": "Análises e Diagnósticos"
+    },
+    {
+      "code": "GUAR3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Comércio",
+      "segment": "Tecidos, Vestuário e Calçados"
+    },
+    {
+      "code": "DASA3",
+      "sector": "Saúde",
+      "subSector": "Análises e Diagnósticos",
+      "segment": "Análises e Diagnósticos"
+    },
+    {
+      "code": "BRAP3",
+      "sector": "Materiais Básicos",
+      "subSector": "Mineração",
+      "segment": "Minerais Metálicos"
+    },
+    {
+      "code": "TPIS3",
+      "sector": "Bens Industriais",
+      "subSector": "Transporte",
+      "segment": "Exploração de Rodovias"
+    },
+    {
+      "code": "SEER3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Diversos",
+      "segment": "Serviços Educacionais"
+    },
+    {
+      "code": "NGRD3",
+      "sector": "Tecnologia da Informação",
+      "subSector": "Programas e Serviços",
+      "segment": "Programas e Serviços"
+    },
+    {
+      "code": "KEPL3",
+      "sector": "Bens Industriais",
+      "subSector": "Máquinas e Equipamentos",
+      "segment": "Máq. e Equip. Industriais"
+    },
+    {
+      "code": "MILS3",
+      "sector": "Bens Industriais",
+      "subSector": "Construção e Engenharia",
+      "segment": "Serviços Diversos"
+    },
+    {
+      "code": "TGMA3",
+      "sector": "Bens Industriais",
+      "subSector": "Transporte",
+      "segment": "Transporte Rodoviário"
+    },
+    {
+      "code": "MATD3",
+      "sector": "Saúde",
+      "subSector": "Serviços Médicos",
+      "segment": "Serviços Médicos"
+    },
+    {
+      "code": "OPCT3",
+      "sector": "Bens Industriais",
+      "subSector": "Transporte",
+      "segment": "Transporte Hidroviário"
+    },
+    {
+      "code": "LVTC3",
+      "sector": "Tecnologia da Informação",
+      "subSector": "Programas e Serviços",
+      "segment": "Programas e Serviços"
+    },
+    {
+      "code": "DEXP3",
+      "sector": "Materiais Básicos",
+      "subSector": "Químicos",
+      "segment": "Petroquímicos"
+    },
+    {
+      "code": "MODL11",
+      "sector": "Financeiro",
+      "subSector": "Intermediários Financeiros",
+      "segment": "Bancos"
+    },
+    {
+      "code": "USIM3",
+      "sector": "Materiais Básicos",
+      "subSector": "Siderurgia e Metalurgia",
+      "segment": "Siderurgia"
+    },
+    {
+      "code": "CMIG3",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "JPSA3",
+      "sector": "Financeiro",
+      "subSector": "Exploração de Imóveis",
+      "segment": "Exploração de Imóveis"
+    },
+    {
+      "code": "LAVV3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Construção Civil",
+      "segment": "Incorporações"
+    },
+    {
+      "code": "CURY3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Construção Civil",
+      "segment": "Incorporações"
+    },
+    {
+      "code": "CARD3",
+      "sector": "Bens Industriais",
+      "subSector": "Serviços Diversos",
+      "segment": "Serviços Diversos"
+    },
+    {
+      "code": "VVEO3",
+      "sector": "Saúde",
+      "subSector": "Serviços Médicos",
+      "segment": "Serviços Médicos"
+    },
+    {
+      "code": "DESK3",
+      "sector": "Comunicações",
+      "subSector": "Telecomunicações",
+      "segment": "Telecomunicações"
+    },
+    {
+      "code": "HBOR3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Construção Civil",
+      "segment": "Incorporações"
+    },
+    {
+      "code": "MTRE3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Construção Civil",
+      "segment": "Incorporações"
+    },
+    {
+      "code": "AURA33",
+      "sector": "Materiais Básicos",
+      "subSector": "Mineração",
+      "segment": "Minerais Metálicos"
+    },
+    {
+      "code": "POWE3",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "BRIT3",
+      "sector": "Comunicações",
+      "subSector": "Telecomunicações",
+      "segment": "Telecomunicações"
+    },
+    {
+      "code": "VULC3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Tecidos, Vestuário e Calçados",
+      "segment": "Calçados"
+    },
+    {
+      "code": "FIQE3",
+      "sector": "Comunicações",
+      "subSector": "Telecomunicações",
+      "segment": "Telecomunicações"
+    },
+    {
+      "code": "JALL3",
+      "sector": "Consumo não Cíclico",
+      "subSector": "Alimentos Processados",
+      "segment": "Açúcar e Alcool"
+    },
+    {
+      "code": "MMXM3",
+      "sector": "Materiais Básicos",
+      "subSector": "Mineração",
+      "segment": "Minerais Metálicos"
+    },
+    {
+      "code": "BMGB4",
+      "sector": "Financeiro",
+      "subSector": "Intermediários Financeiros",
+      "segment": "Bancos"
+    },
+    {
+      "code": "JSLG3",
+      "sector": "Bens Industriais",
+      "subSector": "Transporte",
+      "segment": "Transporte Rodoviário"
+    },
+    {
+      "code": "PMAM3",
+      "sector": "Materiais Básicos",
+      "subSector": "Siderurgia e Metalurgia",
+      "segment": "Artefatos de Cobre"
+    },
+    {
+      "code": "TCSA3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Construção Civil",
+      "segment": "Incorporações"
+    },
+    {
+      "code": "PLPL3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Construção Civil",
+      "segment": "Incorporações"
+    },
+    {
+      "code": "AZEV4",
+      "sector": "Bens Industriais",
+      "subSector": "Construção e Engenharia",
+      "segment": "Construção Pesada"
+    },
+    {
+      "code": "CSED3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Diversos",
+      "segment": "Serviços Educacionais"
+    },
+    {
+      "code": "APER3",
+      "sector": "Financeiro",
+      "subSector": "Previdência e Seguros",
+      "segment": "Corretoras de Seguros"
+    },
+    {
+      "code": "SHUL4",
+      "sector": "Bens Industriais",
+      "subSector": "Máquinas e Equipamentos",
+      "segment": "Motores, Compressores e Outros"
+    },
+    {
+      "code": "WEST3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Comércio",
+      "segment": "Produtos Diversos"
+    },
+    {
+      "code": "ELMD3",
+      "sector": "Comunicações",
+      "subSector": "Mídia",
+      "segment": "Publicidade"
+    },
+    {
+      "code": "SOJA3",
+      "sector": "Consumo não Cíclico",
+      "subSector": "Agropecuária",
+      "segment": "Agricultura"
+    },
+    {
+      "code": "SYNE3",
+      "sector": "Financeiro",
+      "subSector": "Exploração de Imóveis",
+      "segment": "Exploração de Imóveis"
+    },
+    {
+      "code": "SHOW3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Viagens e Lazer",
+      "segment": "Produção de Eventos e Shows"
+    },
+    {
+      "code": "KLBN4",
+      "sector": "Materiais Básicos",
+      "subSector": "Madeira e Papel",
+      "segment": "Papel e Celulose"
+    },
+    {
+      "code": "RCSL4",
+      "sector": "Bens Industriais",
+      "subSector": "Material de Transporte",
+      "segment": "Material Rodoviário"
+    },
+    {
+      "code": "VLID3",
+      "sector": "Bens Industriais",
+      "subSector": "Serviços Diversos",
+      "segment": "Serviços Diversos"
+    },
+    {
+      "code": "CRPG5",
+      "sector": "Materiais Básicos",
+      "subSector": "Químicos",
+      "segment": "Químicos Diversos"
+    },
+    {
+      "code": "GPIV33",
+      "sector": "Financeiro",
+      "subSector": "Serviços Financeiros Diversos",
+      "segment": "Gestão de Recursos e Investimentos"
+    },
+    {
+      "code": "LPSB3",
+      "sector": "Financeiro",
+      "subSector": "Exploração de Imóveis",
+      "segment": "Intermediação Imobiliária"
+    },
+    {
+      "code": "MELK3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Construção Civil",
+      "segment": "Incorporações"
+    },
+    {
+      "code": "INEP4",
+      "sector": "Bens Industriais",
+      "subSector": "Máquinas e Equipamentos",
+      "segment": "Máq. e Equip. Industriais"
+    },
+    {
+      "code": "TFCO4",
+      "sector": "Consumo Cíclico",
+      "subSector": "Comércio",
+      "segment": "Tecidos, Vestuário e Calçados"
+    },
+    {
+      "code": "VITT3",
+      "sector": "Materiais Básicos",
+      "subSector": "Químicos",
+      "segment": "Fertilizantes e Defensivos"
+    },
+    {
+      "code": "DMMO3",
+      "sector": "Petróleo, Gás e Biocombustíveis",
+      "subSector": "Petróleo, Gás e Biocombustíveis",
+      "segment": "Exploração, Refino e Distribuição"
+    },
+    {
+      "code": "FRAS3",
+      "sector": "Bens Industriais",
+      "subSector": "Material de Transporte",
+      "segment": "Material Rodoviário"
+    },
+    {
+      "code": "INEP3",
+      "sector": "Bens Industriais",
+      "subSector": "Máquinas e Equipamentos",
+      "segment": "Máq. e Equip. Industriais"
+    },
+    {
+      "code": "UNIP3",
+      "sector": "Materiais Básicos",
+      "subSector": "Químicos",
+      "segment": "Químicos Diversos"
+    },
+    {
+      "code": "MDNE3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Construção Civil",
+      "segment": "Incorporações"
+    },
+    {
+      "code": "SAPR3",
+      "sector": "Utilidade Pública",
+      "subSector": "Água e Saneamento",
+      "segment": "Água e Saneamento"
+    },
+    {
+      "code": "JFEN3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Construção Civil",
+      "segment": "Incorporações"
+    },
+    {
+      "code": "GGBR3",
+      "sector": "Materiais Básicos",
+      "subSector": "Siderurgia e Metalurgia",
+      "segment": "Siderurgia"
+    },
+    {
+      "code": "KRSA3",
+      "sector": "Saúde",
+      "subSector": "Serviços Médicos",
+      "segment": "Serviços Médicos"
+    },
+    {
+      "code": "TAEE4",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "LLIS3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Comércio",
+      "segment": "Tecidos, Vestuário e Calçados"
+    },
+    {
+      "code": "NINJ3",
+      "sector": "Tecnologia da Informação",
+      "subSector": "Programas e Serviços",
+      "segment": "Programas e Serviços"
+    },
+    {
+      "code": "ITSA3",
+      "sector": "Financeiro",
+      "subSector": "Intermediários Financeiros",
+      "segment": "Bancos"
+    },
+    {
+      "code": "PDGR3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Construção Civil",
+      "segment": "Incorporações"
+    },
+    {
+      "code": "WSON33",
+      "sector": "Bens Industriais",
+      "subSector": "Transporte",
+      "segment": "Serviços de Apoio e Armazenagem"
+    },
+    {
+      "code": "OIBR4",
+      "sector": "Comunicações",
+      "subSector": "Telecomunicações",
+      "segment": "Telecomunicações"
+    },
+    {
+      "code": "G2DI33",
+      "sector": "Financeiro",
+      "subSector": "Serviços Financeiros Diversos",
+      "segment": "Gestão de Recursos e Investimentos"
+    },
+    {
+      "code": "AGXY3",
+      "sector": "Consumo não Cíclico",
+      "subSector": "Agropecuária",
+      "segment": "Agricultura"
+    },
+    {
+      "code": "PFRM3",
+      "sector": "Saúde",
+      "subSector": "Comércio e Distribuição",
+      "segment": "Medicamentos e Outros Produtos"
+    },
+    {
+      "code": "AZEV3",
+      "sector": "Bens Industriais",
+      "subSector": "Construção e Engenharia",
+      "segment": "Construção Pesada"
+    },
+    {
+      "code": "MBLY3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Comércio",
+      "segment": "Produtos Diversos"
+    },
+    {
+      "code": "COCE5",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "MOAR3",
+      "sector": "Financeiro",
+      "subSector": "Holdings Diversificadas",
+      "segment": "Holdings Diversificadas"
+    },
+    {
+      "code": "EUCA4",
+      "sector": "Materiais Básicos",
+      "subSector": "Madeira e Papel",
+      "segment": "Madeira"
+    },
+    {
+      "code": "PDTC3",
+      "sector": "Financeiro",
+      "subSector": "Serviços Financeiros Diversos",
+      "segment": "Gestão de Recursos e Investimentos"
+    },
+    {
+      "code": "TASA3",
+      "sector": "Bens Industriais",
+      "subSector": "Máquinas e Equipamentos",
+      "segment": "Armas e Munições"
+    },
+    {
+      "code": "LAND3",
+      "sector": "Consumo não Cíclico",
+      "subSector": "Agropecuária",
+      "segment": "Agricultura"
+    },
+    {
+      "code": "KLBN3",
+      "sector": "Materiais Básicos",
+      "subSector": "Madeira e Papel",
+      "segment": "Papel e Celulose"
+    },
+    {
+      "code": "TAEE3",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "DMVF3",
+      "sector": "Saúde",
+      "subSector": "Comércio e Distribuição",
+      "segment": "Medicamentos e Outros Produtos"
+    },
+    {
+      "code": "RSID3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Construção Civil",
+      "segment": "Incorporações"
+    },
+    {
+      "code": "SANB4",
+      "sector": "Financeiro",
+      "subSector": "Intermediários Financeiros",
+      "segment": "Bancos"
+    },
+    {
+      "code": "DOTZ3",
+      "sector": "Tecnologia da Informação",
+      "subSector": "Programas e Serviços",
+      "segment": "Programas e Serviços"
+    },
+    {
+      "code": "POMO3",
+      "sector": "Bens Industriais",
+      "subSector": "Material de Transporte",
+      "segment": "Material Rodoviário"
+    },
+    {
+      "code": "BRKM3",
+      "sector": "Materiais Básicos",
+      "subSector": "Químicos",
+      "segment": "Petroquímicos"
+    },
+    {
+      "code": "PTNT3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Tecidos, Vestuário e Calçados",
+      "segment": "Fios e Tecidos"
+    },
+    {
+      "code": "SGPS3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Tecidos, Vestuário e Calçados",
+      "segment": "Fios e Tecidos"
+    },
+    {
+      "code": "PRNR3",
+      "sector": "Bens Industriais",
+      "subSector": "Serviços Diversos",
+      "segment": "Serviços Diversos"
+    },
+    {
+      "code": "OFSA3",
+      "sector": "Saúde",
+      "subSector": "Medicamentos e Outros Produtos",
+      "segment": "Medicamentos e Outros Produtos"
+    },
+    {
+      "code": "RNEW4",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "PINE4",
+      "sector": "Financeiro",
+      "subSector": "Intermediários Financeiros",
+      "segment": "Bancos"
+    },
+    {
+      "code": "RSUL4",
+      "sector": "Bens Industriais",
+      "subSector": "Material de Transporte",
+      "segment": "Material Rodoviário"
+    },
+    {
+      "code": "CGRA4",
+      "sector": "Consumo Cíclico",
+      "subSector": "Comércio",
+      "segment": "Tecidos, Vestuário e Calçados"
+    },
+    {
+      "code": "HBRE3",
+      "sector": "Financeiro",
+      "subSector": "Exploração de Imóveis",
+      "segment": "Exploração de Imóveis"
+    },
+    {
+      "code": "SANB3",
+      "sector": "Financeiro",
+      "subSector": "Intermediários Financeiros",
+      "segment": "Bancos"
+    },
+    {
+      "code": "TCNO4",
+      "sector": "Bens Industriais",
+      "subSector": "Construção e Engenharia",
+      "segment": "Engenharia Consultiva"
+    },
+    {
+      "code": "CGAS5",
+      "sector": "Utilidade Pública",
+      "subSector": "Gás",
+      "segment": "Gás"
+    },
+    {
+      "code": "IGBR3",
+      "sector": "Financeiro",
+      "subSector": "Exploração de Imóveis",
+      "segment": "Exploração de Imóveis"
+    },
+    {
+      "code": "MODL4",
+      "sector": "Financeiro",
+      "subSector": "Intermediários Financeiros",
+      "segment": "Bancos"
+    },
+    {
+      "code": "GOAU3",
+      "sector": "Materiais Básicos",
+      "subSector": "Siderurgia e Metalurgia",
+      "segment": "Siderurgia"
+    },
+    {
+      "code": "RAPT3",
+      "sector": "Bens Industriais",
+      "subSector": "Material de Transporte",
+      "segment": "Material Rodoviário"
+    },
+    {
+      "code": "CLSC4",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "RDNI3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Construção Civil",
+      "segment": "Incorporações"
+    },
+    {
+      "code": "SLED4",
+      "sector": "Consumo Cíclico",
+      "subSector": "Comércio",
+      "segment": "Produtos Diversos"
+    },
+    {
+      "code": "CAMB3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Tecidos, Vestuário e Calçados",
+      "segment": "Calçados"
+    },
+    {
+      "code": "RPMG3",
+      "sector": "Petróleo, Gás e Biocombustíveis",
+      "subSector": "Petróleo, Gás e Biocombustíveis",
+      "segment": "Exploração, Refino e Distribuição"
+    },
+    {
+      "code": "UCAS3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Utilidades Domésticas",
+      "segment": "Móveis"
+    },
+    {
+      "code": "PTNT4",
+      "sector": "Consumo Cíclico",
+      "subSector": "Tecidos, Vestuário e Calçados",
+      "segment": "Fios e Tecidos"
+    },
+    {
+      "code": "CEBR6",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "CEBR3",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "SULA4",
+      "sector": "Financeiro",
+      "subSector": "Previdência e Seguros",
+      "segment": "Seguradoras"
+    },
+    {
+      "code": "SCAR3",
+      "sector": "Financeiro",
+      "subSector": "Exploração de Imóveis",
+      "segment": "Exploração de Imóveis"
+    },
+    {
+      "code": "EALT4",
+      "sector": "Bens Industriais",
+      "subSector": "Máquinas e Equipamentos",
+      "segment": "Máq. e Equip. Industriais"
+    },
+    {
+      "code": "ATMP3",
+      "sector": "Bens Industriais",
+      "subSector": "Serviços Diversos",
+      "segment": "Serviços Diversos"
+    },
+    {
+      "code": "CEBR5",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "RNEW3",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "TCNO3",
+      "sector": "Bens Industriais",
+      "subSector": "Construção e Engenharia",
+      "segment": "Engenharia Consultiva"
+    },
+    {
+      "code": "MODL3",
+      "sector": "Financeiro",
+      "subSector": "Intermediários Financeiros",
+      "segment": "Bancos"
+    },
+    {
+      "code": "HOOT4",
+      "sector": "Consumo Cíclico",
+      "subSector": "Hoteis e Restaurantes",
+      "segment": "Hotelaria"
+    },
+    {
+      "code": "ATOM3",
+      "sector": "Outros",
+      "subSector": "Outros",
+      "segment": "Outros"
+    },
+    {
+      "code": "SULA3",
+      "sector": "Financeiro",
+      "subSector": "Previdência e Seguros",
+      "segment": "Seguradoras"
+    },
+    {
+      "code": "CESP3",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "DEXP4",
+      "sector": "Materiais Básicos",
+      "subSector": "Químicos",
+      "segment": "Petroquímicos"
+    },
+    {
+      "code": "MNPR3",
+      "sector": "Consumo não Cíclico",
+      "subSector": "Alimentos Processados",
+      "segment": "Carnes e Derivados"
+    },
+    {
+      "code": "EMAE4",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "ALPA3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Tecidos, Vestuário e Calçados",
+      "segment": "Calçados"
+    },
+    {
+      "code": "ALPK3",
+      "sector": "Bens Industriais",
+      "subSector": "Serviços Diversos",
+      "segment": "Serviços Diversos"
+    },
+    {
+      "code": "BPAC3",
+      "sector": "Financeiro",
+      "subSector": "Intermediários Financeiros",
+      "segment": "Bancos"
+    },
+    {
+      "code": "MWET4",
+      "sector": "Bens Industriais",
+      "subSector": "Material de Transporte",
+      "segment": "Material Rodoviário"
+    },
+    {
+      "code": "HAGA4",
+      "sector": "Bens Industriais",
+      "subSector": "Construção e Engenharia",
+      "segment": "Produtos para Construção"
+    },
+    {
+      "code": "CRPG6",
+      "sector": "Materiais Básicos",
+      "subSector": "Químicos",
+      "segment": "Químicos Diversos"
+    },
+    {
+      "code": "RNEW11",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "BIOM3",
+      "sector": "Saúde",
+      "subSector": "Medicamentos e Outros Produtos",
+      "segment": "Medicamentos e Outros Produtos"
+    },
+    {
+      "code": "SLED3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Comércio",
+      "segment": "Produtos Diversos"
+    },
+    {
+      "code": "WHRL4",
+      "sector": "Consumo Cíclico",
+      "subSector": "Utilidades Domésticas",
+      "segment": "Eletrodomésticos"
+    },
+    {
+      "code": "MTSA4",
+      "sector": "Bens Industriais",
+      "subSector": "Máquinas e Equipamentos",
+      "segment": "Máq. e Equip. Construção e Agrícolas"
+    },
+    {
+      "code": "AVLL3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Construção Civil",
+      "segment": "Incorporações"
+    },
+    {
+      "code": "ENGI4",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "ALUP4",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "EEEL4",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "BOBR4",
+      "sector": "Consumo não Cíclico",
+      "subSector": "Produtos de Uso Pessoal e de Limpeza",
+      "segment": "Produtos de Limpeza"
+    },
+    {
+      "code": "ENMT3",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "BEES3",
+      "sector": "Financeiro",
+      "subSector": "Intermediários Financeiros",
+      "segment": "Bancos"
+    },
+    {
+      "code": "MGEL4",
+      "sector": "Materiais Básicos",
+      "subSector": "Siderurgia e Metalurgia",
+      "segment": "Artefatos de Ferro e Aço"
+    },
+    {
+      "code": "EUCA3",
+      "sector": "Materiais Básicos",
+      "subSector": "Madeira e Papel",
+      "segment": "Madeira"
+    },
+    {
+      "code": "ENGI3",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "BPAC5",
+      "sector": "Financeiro",
+      "subSector": "Intermediários Financeiros",
+      "segment": "Bancos"
+    },
+    {
+      "code": "TELB4",
+      "sector": "Comunicações",
+      "subSector": "Telecomunicações",
+      "segment": "Telecomunicações"
+    },
+    {
+      "code": "WHRL3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Utilidades Domésticas",
+      "segment": "Eletrodomésticos"
+    },
+    {
+      "code": "ALUP3",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "MSPA3",
+      "sector": "Materiais Básicos",
+      "subSector": "Madeira e Papel",
+      "segment": "Papel e Celulose"
+    },
+    {
+      "code": "BRSR3",
+      "sector": "Financeiro",
+      "subSector": "Intermediários Financeiros",
+      "segment": "Bancos"
+    },
+    {
+      "code": "CGRA3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Comércio",
+      "segment": "Tecidos, Vestuário e Calçados"
+    },
+    {
+      "code": "CEPE3",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "CTNM4",
+      "sector": "Consumo Cíclico",
+      "subSector": "Tecidos, Vestuário e Calçados",
+      "segment": "Fios e Tecidos"
+    },
+    {
+      "code": "CTKA4",
+      "sector": "Consumo Cíclico",
+      "subSector": "Tecidos, Vestuário e Calçados",
+      "segment": "Fios e Tecidos"
+    },
+    {
+      "code": "CTSA4",
+      "sector": "Consumo Cíclico",
+      "subSector": "Tecidos, Vestuário e Calçados",
+      "segment": "Fios e Tecidos"
+    },
+    {
+      "code": "MNDL3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Tecidos, Vestuário e Calçados",
+      "segment": "Acessórios"
+    },
+    {
+      "code": "TELB3",
+      "sector": "Comunicações",
+      "subSector": "Telecomunicações",
+      "segment": "Telecomunicações"
+    },
+    {
+      "code": "CEGR3",
+      "sector": "Utilidade Pública",
+      "subSector": "Gás",
+      "segment": "Gás"
+    },
+    {
+      "code": "EQPA3",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "EPAR3",
+      "sector": "Financeiro",
+      "subSector": "Holdings Diversificadas",
+      "segment": "Holdings Diversificadas"
+    },
+    {
+      "code": "WLMM4",
+      "sector": "Bens Industriais",
+      "subSector": "Comércio",
+      "segment": "Material de Transporte"
+    },
+    {
+      "code": "OSXB3",
+      "sector": "Petróleo, Gás e Biocombustíveis",
+      "subSector": "Petróleo, Gás e Biocombustíveis",
+      "segment": "Equipamentos e Serviços"
+    },
+    {
+      "code": "BMEB4",
+      "sector": "Financeiro",
+      "subSector": "Intermediários Financeiros",
+      "segment": "Bancos"
+    },
+    {
+      "code": "FRTA3",
+      "sector": "Consumo não Cíclico",
+      "subSector": "Agropecuária",
+      "segment": "Agricultura"
+    },
+    {
+      "code": "ENMT4",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "EQPA7",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "DOHL4",
+      "sector": "Consumo Cíclico",
+      "subSector": "Tecidos, Vestuário e Calçados",
+      "segment": "Fios e Tecidos"
+    },
+    {
+      "code": "SHUL3",
+      "sector": "Bens Industriais",
+      "subSector": "Máquinas e Equipamentos",
+      "segment": "Motores, Compressores e Outros"
+    },
+    {
+      "code": "BALM4",
+      "sector": "Saúde",
+      "subSector": "Equipamentos",
+      "segment": "Equipamentos"
+    },
+    {
+      "code": "HAGA3",
+      "sector": "Bens Industriais",
+      "subSector": "Construção e Engenharia",
+      "segment": "Produtos para Construção"
+    },
+    {
+      "code": "LUXM4",
+      "sector": "Bens Industriais",
+      "subSector": "Transporte",
+      "segment": "Transporte Hidroviário"
+    },
+    {
+      "code": "TRPL3",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "CTSA3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Tecidos, Vestuário e Calçados",
+      "segment": "Fios e Tecidos"
+    },
+    {
+      "code": "BMEB3",
+      "sector": "Financeiro",
+      "subSector": "Intermediários Financeiros",
+      "segment": "Bancos"
+    },
+    {
+      "code": "CEEB3",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "BAZA3",
+      "sector": "Financeiro",
+      "subSector": "Intermediários Financeiros",
+      "segment": "Bancos"
+    },
+    {
+      "code": "EEEL3",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "NORD3",
+      "sector": "Bens Industriais",
+      "subSector": "Máquinas e Equipamentos",
+      "segment": "Máq. e Equip. Industriais"
+    },
+    {
+      "code": "CEDO4",
+      "sector": "Consumo Cíclico",
+      "subSector": "Tecidos, Vestuário e Calçados",
+      "segment": "Fios e Tecidos"
+    },
+    {
+      "code": "BSLI3",
+      "sector": "Financeiro",
+      "subSector": "Intermediários Financeiros",
+      "segment": "Bancos"
+    },
+    {
+      "code": "PATI3",
+      "sector": "Materiais Básicos",
+      "subSector": "Siderurgia e Metalurgia",
+      "segment": "Artefatos de Ferro e Aço"
+    },
+    {
+      "code": "UNIP5",
+      "sector": "Materiais Básicos",
+      "subSector": "Químicos",
+      "segment": "Químicos Diversos"
+    },
+    {
+      "code": "PLAS3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Automóveis e Motocicletas",
+      "segment": "Automóveis e Motocicletas"
+    },
+    {
+      "code": "BAHI3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Diversos",
+      "segment": "Serviços Educacionais"
+    },
+    {
+      "code": "ECPR4",
+      "sector": "Consumo Cíclico",
+      "subSector": "Tecidos, Vestuário e Calçados",
+      "segment": "Fios e Tecidos"
+    },
+    {
+      "code": "HETA3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Utilidades Domésticas",
+      "segment": "Utensílios Domésticos"
+    },
+    {
+      "code": "BAUH4",
+      "sector": "Consumo não Cíclico",
+      "subSector": "Alimentos Processados",
+      "segment": "Carnes e Derivados"
+    },
+    {
+      "code": "MTIG4",
+      "sector": "Materiais Básicos",
+      "subSector": "Embalagens",
+      "segment": "Embalagens"
+    },
+    {
+      "code": "ODER4",
+      "sector": "Consumo não Cíclico",
+      "subSector": "Alimentos Processados",
+      "segment": "Alimentos Diversos"
+    },
+    {
+      "code": "EKTR3",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "TEKA4",
+      "sector": "Consumo Cíclico",
+      "subSector": "Tecidos, Vestuário e Calçados",
+      "segment": "Fios e Tecidos"
+    },
+    {
+      "code": "BMKS3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Viagens e Lazer",
+      "segment": "Bicicletas"
+    },
+    {
+      "code": "HBTS5",
+      "sector": "Financeiro",
+      "subSector": "Exploração de Imóveis",
+      "segment": "Exploração de Imóveis"
+    },
+    {
+      "code": "REDE3",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "FESA3",
+      "sector": "Materiais Básicos",
+      "subSector": "Siderurgia e Metalurgia",
+      "segment": "Siderurgia"
+    },
+    {
+      "code": "BEES4",
+      "sector": "Financeiro",
+      "subSector": "Intermediários Financeiros",
+      "segment": "Bancos"
+    },
+    {
+      "code": "LIPR3",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "GSHP3",
+      "sector": "Financeiro",
+      "subSector": "Exploração de Imóveis",
+      "segment": "Exploração de Imóveis"
+    },
+    {
+      "code": "JOPA4",
+      "sector": "Consumo não Cíclico",
+      "subSector": "Alimentos Processados",
+      "segment": "Alimentos Diversos"
+    },
+    {
+      "code": "PEAB3",
+      "sector": "Financeiro",
+      "subSector": "Holdings Diversificadas",
+      "segment": "Holdings Diversificadas"
+    },
+    {
+      "code": "CBEE3",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "SNSY5",
+      "sector": "Materiais Básicos",
+      "subSector": "Materiais Diversos",
+      "segment": "Materiais Diversos"
+    },
+    {
+      "code": "EKTR4",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "EQPA5",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "CGAS3",
+      "sector": "Utilidade Pública",
+      "subSector": "Gás",
+      "segment": "Gás"
+    },
+    {
+      "code": "BNBR3",
+      "sector": "Financeiro",
+      "subSector": "Intermediários Financeiros",
+      "segment": "Bancos"
+    },
+    {
+      "code": "ESTR4",
+      "sector": "Consumo Cíclico",
+      "subSector": "Viagens e Lazer",
+      "segment": "Brinquedos e Jogos"
+    },
+    {
+      "code": "NUTR3",
+      "sector": "Materiais Básicos",
+      "subSector": "Químicos",
+      "segment": "Fertilizantes e Defensivos"
+    },
+    {
+      "code": "CSRN6",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "SOND5",
+      "sector": "Bens Industriais",
+      "subSector": "Construção e Engenharia",
+      "segment": "Engenharia Consultiva"
+    },
+    {
+      "code": "BGIP4",
+      "sector": "Financeiro",
+      "subSector": "Intermediários Financeiros",
+      "segment": "Bancos"
+    },
+    {
+      "code": "CEPE5",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "CRPG3",
+      "sector": "Materiais Básicos",
+      "subSector": "Químicos",
+      "segment": "Químicos Diversos"
+    },
+    {
+      "code": "TXRX4",
+      "sector": "Consumo Cíclico",
+      "subSector": "Tecidos, Vestuário e Calçados",
+      "segment": "Fios e Tecidos"
+    },
+    {
+      "code": "CSRN3",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "WLMM3",
+      "sector": "Bens Industriais",
+      "subSector": "Comércio",
+      "segment": "Material de Transporte"
+    },
+    {
+      "code": "CLSC3",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "HETA4",
+      "sector": "Consumo Cíclico",
+      "subSector": "Utilidades Domésticas",
+      "segment": "Utensílios Domésticos"
+    },
+    {
+      "code": "BMIN4",
+      "sector": "Financeiro",
+      "subSector": "Intermediários Financeiros",
+      "segment": "Bancos"
+    },
+    {
+      "code": "JOPA3",
+      "sector": "Consumo não Cíclico",
+      "subSector": "Alimentos Processados",
+      "segment": "Alimentos Diversos"
+    },
+    {
+      "code": "BDLL3",
+      "sector": "Bens Industriais",
+      "subSector": "Máquinas e Equipamentos",
+      "segment": "Máq. e Equip. Industriais"
+    },
+    {
+      "code": "CPLE5",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "MERC4",
+      "sector": "Financeiro",
+      "subSector": "Intermediários Financeiros",
+      "segment": "Soc. Crédito e Financiamento"
+    },
+    {
+      "code": "CTKA3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Tecidos, Vestuário e Calçados",
+      "segment": "Fios e Tecidos"
+    },
+    {
+      "code": "SOND6",
+      "sector": "Bens Industriais",
+      "subSector": "Construção e Engenharia",
+      "segment": "Engenharia Consultiva"
+    },
+    {
+      "code": "CRIV4",
+      "sector": "Financeiro",
+      "subSector": "Intermediários Financeiros",
+      "segment": "Soc. Crédito e Financiamento"
+    },
+    {
+      "code": "BSLI4",
+      "sector": "Financeiro",
+      "subSector": "Intermediários Financeiros",
+      "segment": "Bancos"
+    },
+    {
+      "code": "SNSY3",
+      "sector": "Materiais Básicos",
+      "subSector": "Materiais Diversos",
+      "segment": "Materiais Diversos"
+    },
+    {
+      "code": "GEPA3",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "DTCY3",
+      "sector": "Bens Industriais",
+      "subSector": "Serviços Diversos",
+      "segment": "Serviços Diversos"
+    },
+    {
+      "code": "PATI4",
+      "sector": "Materiais Básicos",
+      "subSector": "Siderurgia e Metalurgia",
+      "segment": "Artefatos de Ferro e Aço"
+    },
+    {
+      "code": "MAPT3",
+      "sector": "Outros",
+      "subSector": "Outros",
+      "segment": "Outros"
+    },
+    {
+      "code": "GEPA4",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "PEAB4",
+      "sector": "Financeiro",
+      "subSector": "Holdings Diversificadas",
+      "segment": "Holdings Diversificadas"
+    },
+    {
+      "code": "CSRN5",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "CEED3",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "CESP5",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "CSAB3",
+      "sector": "Financeiro",
+      "subSector": "Previdência e Seguros",
+      "segment": "Seguradoras"
+    },
+    {
+      "code": "AFLT3",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "FRIO3",
+      "sector": "Bens Industriais",
+      "subSector": "Máquinas e Equipamentos",
+      "segment": "Máq. e Equip. Industriais"
+    },
+    {
+      "code": "AHEB3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Viagens e Lazer",
+      "segment": "Produção de Eventos e Shows"
+    },
+    {
+      "code": "MERC3",
+      "sector": "Financeiro",
+      "subSector": "Intermediários Financeiros",
+      "segment": "Soc. Crédito e Financiamento"
+    },
+    {
+      "code": "ELET5",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "BRGE3",
+      "sector": "Financeiro",
+      "subSector": "Previdência e Seguros",
+      "segment": "Seguradoras"
+    },
+    {
+      "code": "BDLL4",
+      "sector": "Bens Industriais",
+      "subSector": "Máquinas e Equipamentos",
+      "segment": "Máq. e Equip. Industriais"
+    },
+    {
+      "code": "BRIV4",
+      "sector": "Financeiro",
+      "subSector": "Intermediários Financeiros",
+      "segment": "Bancos"
+    },
+    {
+      "code": "BGIP3",
+      "sector": "Financeiro",
+      "subSector": "Intermediários Financeiros",
+      "segment": "Bancos"
+    },
+    {
+      "code": "CALI4",
+      "sector": "Consumo Cíclico",
+      "subSector": "Construção Civil",
+      "segment": "Incorporações"
+    },
+    {
+      "code": "MTSA3",
+      "sector": "Bens Industriais",
+      "subSector": "Máquinas e Equipamentos",
+      "segment": "Máq. e Equip. Construção e Agrícolas"
+    },
+    {
+      "code": "TKNO4",
+      "sector": "Materiais Básicos",
+      "subSector": "Siderurgia e Metalurgia",
+      "segment": "Artefatos de Ferro e Aço"
+    },
+    {
+      "code": "BALM3",
+      "sector": "Saúde",
+      "subSector": "Equipamentos",
+      "segment": "Equipamentos"
+    },
+    {
+      "code": "CEDO3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Tecidos, Vestuário e Calçados",
+      "segment": "Fios e Tecidos"
+    },
+    {
+      "code": "MWET3",
+      "sector": "Bens Industriais",
+      "subSector": "Material de Transporte",
+      "segment": "Material Rodoviário"
+    },
+    {
+      "code": "EALT3",
+      "sector": "Bens Industriais",
+      "subSector": "Máquinas e Equipamentos",
+      "segment": "Máq. e Equip. Industriais"
+    },
+    {
+      "code": "ECPR3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Tecidos, Vestuário e Calçados",
+      "segment": "Fios e Tecidos"
+    },
+    {
+      "code": "COCE3",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "MAPT4",
+      "sector": "Outros",
+      "subSector": "Outros",
+      "segment": "Outros"
+    },
+    {
+      "code": "RPAD3",
+      "sector": "Financeiro",
+      "subSector": "Intermediários Financeiros",
+      "segment": "Bancos"
+    },
+    {
+      "code": "MRSA6B",
+      "sector": "Bens Industriais",
+      "subSector": "Transporte",
+      "segment": "Transporte Ferroviário"
+    },
+    {
+      "code": "CRDE3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Construção Civil",
+      "segment": "Incorporações"
+    },
+    {
+      "code": "BMIN3",
+      "sector": "Financeiro",
+      "subSector": "Intermediários Financeiros",
+      "segment": "Bancos"
+    },
+    {
+      "code": "CSAB4",
+      "sector": "Financeiro",
+      "subSector": "Previdência e Seguros",
+      "segment": "Seguradoras"
+    },
+    {
+      "code": "PPLA11",
+      "sector": "Financeiro",
+      "subSector": "Serviços Financeiros Diversos",
+      "segment": "Gestão de Recursos e Investimentos"
+    },
+    {
+      "code": "AHEB6",
+      "sector": "Consumo Cíclico",
+      "subSector": "Viagens e Lazer",
+      "segment": "Produção de Eventos e Shows"
+    },
+    {
+      "code": "BRSR5",
+      "sector": "Financeiro",
+      "subSector": "Intermediários Financeiros",
+      "segment": "Bancos"
+    },
+    {
+      "code": "CRIV3",
+      "sector": "Financeiro",
+      "subSector": "Intermediários Financeiros",
+      "segment": "Soc. Crédito e Financiamento"
+    },
+    {
+      "code": "TEKA3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Tecidos, Vestuário e Calçados",
+      "segment": "Fios e Tecidos"
+    },
+    {
+      "code": "CEEB5",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "CEED4",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "BRKM6",
+      "sector": "Materiais Básicos",
+      "subSector": "Químicos",
+      "segment": "Petroquímicos"
+    },
+    {
+      "code": "MRSA3B",
+      "sector": "Bens Industriais",
+      "subSector": "Transporte",
+      "segment": "Transporte Ferroviário"
+    },
+    {
+      "code": "AHEB5",
+      "sector": "Consumo Cíclico",
+      "subSector": "Viagens e Lazer",
+      "segment": "Produção de Eventos e Shows"
+    },
+    {
+      "code": "BRGE8",
+      "sector": "Financeiro",
+      "subSector": "Previdência e Seguros",
+      "segment": "Seguradoras"
+    },
+    {
+      "code": "MRSA5B",
+      "sector": "Bens Industriais",
+      "subSector": "Transporte",
+      "segment": "Transporte Ferroviário"
+    },
+    {
+      "code": "TXRX3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Tecidos, Vestuário e Calçados",
+      "segment": "Fios e Tecidos"
+    },
+    {
+      "code": "RPAD5",
+      "sector": "Financeiro",
+      "subSector": "Intermediários Financeiros",
+      "segment": "Bancos"
+    },
+    {
+      "code": "GPAR3",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "BRIV3",
+      "sector": "Financeiro",
+      "subSector": "Intermediários Financeiros",
+      "segment": "Bancos"
+    },
+    {
+      "code": "DOHL3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Tecidos, Vestuário e Calçados",
+      "segment": "Fios e Tecidos"
+    },
+    {
+      "code": "SOND3",
+      "sector": "Bens Industriais",
+      "subSector": "Construção e Engenharia",
+      "segment": "Engenharia Consultiva"
+    },
+    {
+      "code": "CTNM3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Tecidos, Vestuário e Calçados",
+      "segment": "Fios e Tecidos"
+    },
+    {
+      "code": "RPAD6",
+      "sector": "Financeiro",
+      "subSector": "Intermediários Financeiros",
+      "segment": "Bancos"
+    },
+    {
+      "code": "BRGE12",
+      "sector": "Financeiro",
+      "subSector": "Previdência e Seguros",
+      "segment": "Seguradoras"
+    },
+    {
+      "code": "CEPE6",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "USIM6",
+      "sector": "Materiais Básicos",
+      "subSector": "Siderurgia e Metalurgia",
+      "segment": "Siderurgia"
+    },
+    {
+      "code": "BRGE11",
+      "sector": "Financeiro",
+      "subSector": "Previdência e Seguros",
+      "segment": "Seguradoras"
+    },
+    {
+      "code": "BRGE6",
+      "sector": "Financeiro",
+      "subSector": "Previdência e Seguros",
+      "segment": "Seguradoras"
+    },
+    {
+      "code": "FNCN3",
+      "sector": "Financeiro",
+      "subSector": "Intermediários Financeiros",
+      "segment": "Soc. Crédito e Financiamento"
+    },
+    {
+      "code": "BRGE5",
+      "sector": "Financeiro",
+      "subSector": "Previdência e Seguros",
+      "segment": "Seguradoras"
+    },
+    {
+      "code": "SNSY6",
+      "sector": "Materiais Básicos",
+      "subSector": "Materiais Diversos",
+      "segment": "Materiais Diversos"
+    },
+    {
+      "code": "MSPA4",
+      "sector": "Materiais Básicos",
+      "subSector": "Madeira e Papel",
+      "segment": "Papel e Celulose"
+    },
+    {
+      "code": "ESTR3",
+      "sector": "Consumo Cíclico",
+      "subSector": "Viagens e Lazer",
+      "segment": "Brinquedos e Jogos"
+    },
+    {
+      "code": "EQPA6",
+      "sector": "Utilidade Pública",
+      "subSector": "Energia Elétrica",
+      "segment": "Energia Elétrica"
+    },
+    {
+      "code": "CORR4",
+      "sector": "Financeiro",
+      "subSector": "Exploração de Imóveis",
+      "segment": "Exploração de Imóveis"
+    },
+    {
+      "code": "CASN3",
+      "sector": "Utilidade Pública",
+      "subSector": "Água e Saneamento",
+      "segment": "Água e Saneamento"
+    }
+  ]
