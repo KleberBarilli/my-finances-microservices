@@ -12,13 +12,13 @@ interface RabbitConnection {
 
 @Injectable()
 export class ClientProxyMyFinances {
-  getClientProxyUserBackendInstance(name: RabbitConnection): ClientProxy {
+  getClientProxyUserBackendInstance(conn: RabbitConnection): ClientProxy {
     return ClientProxyFactory.create({
       transport: Transport.RMQ,
 
       options: {
         urls: [
-          `amqp://${process.env.RABBITMQ_USER}:${process.env.RABBITMQ_PASSWORD}@${process.env.RABBITMQ_URL}/${name}`,
+          `amqp://${process.env.RABBITMQ_USER}:${process.env.RABBITMQ_PASSWORD}@${process.env.RABBITMQ_URL}/${conn.name}`,
         ],
 
         queue: "user-backend",

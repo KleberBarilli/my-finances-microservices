@@ -24,6 +24,7 @@ export class InvestimentsController {
   @Post()
   @UsePipes(ValidationPipe)
   createUser(@Body() createInvestimentDto: CreateInvestimentDto) {
+    console.log(createInvestimentDto);
     this.logger.log(
       `createInvestimentDto: ${JSON.stringify(createInvestimentDto)}`,
     );
