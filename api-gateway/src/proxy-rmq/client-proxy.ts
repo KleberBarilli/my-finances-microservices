@@ -7,8 +7,8 @@ import {
 import { Injectable } from '@nestjs/common';
 
 @Injectable()
-export class ClientProxyFinanceManagement {
-  getClientProxyAdminBackendInstance(): ClientProxy {
+export class ClientProxyMyFinances {
+  getClientProxyUserBackendInstance(): ClientProxy {
     return ClientProxyFactory.create({
       transport: Transport.RMQ,
 
