@@ -47,8 +47,12 @@ export class AppController {
     this.clientUserBackend.emit('create-user', createUserDto);
   }
 
-  @Get('investiments')
-  listInvestiments(@Query('investimentId') id: string): Observable<any> {
-    return this.clientUserBackend.send('list-investiments', id ? id : '');
+  // @Get('investiments')
+  // listInvestiments(@Query('investimentId') id: string): Observable<any> {
+  //   return this.clientUserBackend.send('list-investiments', id ? id : '');
+  // }
+  @Get('users')
+  listUsers(@Query('userId') id: string): Observable<any> {
+    return this.clientUserBackend.send('find-users', id ? id : '');
   }
 }
