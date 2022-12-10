@@ -1,6 +1,6 @@
-import { Module } from '@nestjs/common';
-import { UsersController } from './users.controller';
-import { ProxyRMQModule } from '../../proxy-rmq/proxy-rmq.module';
+import { Module } from "@nestjs/common";
+import { UsersController } from "./users.controller";
+import { ProxyRMQModule } from "../../proxy-rmq/proxy-rmq.module";
 
 @Module({
   imports: [ProxyRMQModule],

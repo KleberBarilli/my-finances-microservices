@@ -3,8 +3,8 @@ import {
   ExecutionContext,
   Injectable,
   NestInterceptor,
-} from '@nestjs/common';
-import { Observable, timeout } from 'rxjs';
+} from "@nestjs/common";
+import { Observable, timeout } from "rxjs";
 
 @Injectable()
 export class TimeoutInterceptor implements NestInterceptor {

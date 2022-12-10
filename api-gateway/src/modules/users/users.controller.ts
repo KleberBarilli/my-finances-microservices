@@ -7,13 +7,13 @@ import {
   Query,
   UsePipes,
   ValidationPipe,
-} from '@nestjs/common';
+} from "@nestjs/common";
 
-import { Observable } from 'rxjs';
-import { ClientProxyMyFinances } from 'src/proxy-rmq/client-proxy';
-import { CreateUserDto } from '../users/dtos/create-user.dto';
+import { Observable } from "rxjs";
+import { ClientProxyMyFinances } from "src/proxy-rmq/client-proxy";
+import { CreateUserDto } from "../users/dtos/create-user.dto";
 
-@Controller('api/users')
+@Controller("api/users")
 export class UsersController {
   private logger = new Logger(UsersController.name);
 
@@ -26,7 +26,7 @@ export class UsersController {
   @UsePipes(ValidationPipe)
   createUser(@Body() createUserDto: CreateUserDto) {
     this.logger.log(`createUserDto: ${JSON.stringify(createUserDto)}`);
-    this.clientUserBackend.emit('create-user', createUserDto);
+    this.clientUserBackend.emit("create-user", createUserDto);
   }
 
   // @Get('investiments')
@@ -34,7 +34,7 @@ export class UsersController {
   //   return this.clientUserBackend.send('list-investiments', id ? id : '');
   // }
   @Get()
-  listUsers(@Query('userId') id: string): Observable<any> {
-    return this.clientUserBackend.send('find-users', id ? id : '');
+  listUsers(@Query("userId") id: string): Observable<any> {
+    return this.clientUserBackend.send("find-users", id ? id : "");
   }
 }

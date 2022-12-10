@@ -2,9 +2,9 @@ import {
   ClientProxy,
   ClientProxyFactory,
   Transport,
-} from '@nestjs/microservices';
+} from "@nestjs/microservices";
 
-import { Injectable } from '@nestjs/common';
+import { Injectable } from "@nestjs/common";
 
 @Injectable()
 export class ClientProxyMyFinances {
@@ -17,7 +17,7 @@ export class ClientProxyMyFinances {
           `amqp://${process.env.RABBITMQ_USER}:${process.env.RABBITMQ_PASSWORD}@${process.env.RABBITMQ_URL}/users`,
         ],
 
-        queue: 'user-backend',
+        queue: "user-backend",
       },
     });
   }
