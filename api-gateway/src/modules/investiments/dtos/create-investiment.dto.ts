@@ -1,30 +1,13 @@
-import { IsString, IsNotEmpty, IsNumber, Min, IsUUID } from "class-validator";
-
-interface B3RealEstateFunds {
-  company: string;
-  asset: string;
-  segment: string;
-  code: string;
-}
-interface B3Stock {
-  code: string;
-  sector: string;
-  subSector: string;
-  segment: string;
-}
-
-interface Investiment {
-  asset: B3RealEstateFunds | B3Stock;
-}
+import { IsNotEmpty, IsNumber, Min, IsUUID } from "class-validator";
 
 export class CreateInvestimentDto {
   @IsUUID()
   @IsNotEmpty()
   readonly userId: string;
 
-  @IsString()
+  @IsUUID()
   @IsNotEmpty()
-  readonly investiment: Investiment;
+  readonly investimentId: string;
 
   @IsNumber()
   @IsNotEmpty()
