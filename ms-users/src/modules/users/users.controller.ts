@@ -29,11 +29,13 @@ export class UsersController {
       await channel.ack(originalMessage); //Removendo mensagem do rabbit após sucesso de escrita no banco
     } catch (error) {
       this.logger.error(`error: ${JSON.stringify(error)}`);
-      ackErrors.map(async (ackError) => {
-        if (error.message.includes(ackError)) {
-          await channel.ack(originalMessage);
-        }
-      });
+
+      const filterAckError = ackErrors.filter((ackError) =>
+        error.message.includes(ackError),
+      );
+      if (filterAckError) {
+        await channel.ack(originalMessage);
+      }
     }
   }
 
