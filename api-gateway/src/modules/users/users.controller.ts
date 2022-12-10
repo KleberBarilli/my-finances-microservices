@@ -20,7 +20,9 @@ export class UsersController {
   constructor(private clientProxyMyFinances: ClientProxyMyFinances) {}
 
   private clientUserBackend =
-    this.clientProxyMyFinances.getClientProxyUserBackendInstance();
+    this.clientProxyMyFinances.getClientProxyUserBackendInstance({
+      name: "users",
+    });
 
   @Post()
   @UsePipes(ValidationPipe)
