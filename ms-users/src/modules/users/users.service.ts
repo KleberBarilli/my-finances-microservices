@@ -1,6 +1,6 @@
 import { Injectable, Logger } from "@nestjs/common";
-import { UsersRepository } from "./repositories/users-repository";
-import { CreateUserDto } from "./dto/create-user.dto";
+import { UsersRepository } from "./repositories/users.repository";
+import { User } from "./interfaces/user.interface";
 import { RpcException } from "@nestjs/microservices";
 
 @Injectable()
@@ -9,7 +9,7 @@ export class UsersService {
 
   private readonly logger = new Logger(UsersService.name);
 
-  create(user: CreateUserDto) {
+  create(user: User) {
     try {
       return this.repository.create(user);
     } catch (error) {

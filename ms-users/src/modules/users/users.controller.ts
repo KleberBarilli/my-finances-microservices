@@ -7,7 +7,7 @@ import {
   Payload,
   RmqContext,
 } from "@nestjs/microservices";
-import { UserEntity } from "./entities/user.entity";
+import { User } from "@prisma/client";
 
 const ackErrors: string[] = ["Unique constraint failed on the field"];
 
@@ -18,7 +18,7 @@ export class UsersController {
   logger = new Logger(UsersController.name);
 
   @EventPattern("create-user")
-  async create(@Payload() user: UserEntity, @Ctx() context: RmqContext) {
+  async create(@Payload() user: User, @Ctx() context: RmqContext) {
     const channel = context.getChannelRef();
     const originalMessage = context.getMessage();
 
